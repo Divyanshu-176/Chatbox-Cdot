@@ -1,0 +1,1623 @@
+[
+    {
+        "range": "10.6-10.68",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE except aeronautical mobile RADIO ASTRONOMY SPACE RESEARCH (passive) Radiolocation 5.149 5.482 5.482A",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE except aeronautical mobile RADIO ASTRONOMY SPACE RESEARCH (passive) Radiolocation 5.149 5.482 5.482A",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE except aeronautical mobile RADIO ASTRONOMY SPACE RESEARCH (passive) Radiolocation 5.149 5.482 5.482A",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE except aeronautical mobile RADIO ASTRONOMY SPACE RESEARCH (passive) Radiolocation 5.149 5.482 5.482A"
+        }
+    },
+    {
+        "range": "10.68-10.7",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340 5.483",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340 5.483",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340 5.483",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "10.7-10.95",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 (Earth-to-space) 5.484 MOBILE except aeronautical mobile",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 MOBILE except aeronautical mobile",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 MOBILE except aeronautical mobile",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 IND 17"
+        }
+    },
+    {
+        "range": "10.95-11.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A (Earth-to-space) 5.484B MOBILE except aeronautical mobile",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B MOBILE except aeronautical mobile",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B MOBILE except aeronautical mobile",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B IND 17 IND 30"
+        }
+    },
+    {
+        "range": "11.2-11.45",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 (Earth-to-space) 5.484 MOBILE except aeronautical mobile",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 MOBILE except aeronautical mobile",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 MOBILE except aeronautical mobile",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.441 IND 17"
+        }
+    },
+    {
+        "range": "11.45-11.7",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B MOBILE except aeronautical mobile",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B MOBILE except aeronautical mobile",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B MOBILE except aeronautical mobile",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B IND 17 IND 30"
+        }
+    },
+    {
+        "range": "11.7-12.1",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED MOBILE except aeronautical mobile BROADCASTING BROADCASTING-SATELLITE 5.492",
+            "Region 2": "FIXED 5.486 FIXED-SATELLITE (space-to-Earth) 5.484A 5.488 MOBILE except aeronautical mobile BROADCASTING BROADCASTING-SATELLITE 5.492 5.487 5.487A",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.488 MOBILE except aeronautical mobile BROADCASTING BROADCASTING-SATELLITE 5.492 5.487 5.487A",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.488 IND 17"
+        }
+    },
+    {
+        "range": "12.1-12.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.488 MOBILE except aeronautical mobile BROADCASTING 5.487 5.487A",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.488 MOBILE except aeronautical mobile BROADCASTING 5.487 5.487A",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.488 MOBILE except aeronautical mobile BROADCASTING 5.487 5.487A",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A 5.488 IND 17 IND 30"
+        }
+    },
+    {
+        "range": "12.2-12.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED MOBILE except aeronautical mobile BROADCASTING BROADCASTING-SATELLITE 5.492",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A MOBILE except aeronautical mobile BROADCASTING 5.487",
+            "Region 3": "FIXED MOBILE except aeronautical mobile BROADCASTING BROADCASTING-SATELLITE 5.492",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A IND 17"
+        }
+    },
+    {
+        "range": "12.5-12.75",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A (Earth-to-space) 5.441 MOBILE except aeronautical mobile BROADCASTING-SATELLITE 5.493",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A MOBILE except aeronautical mobile",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A MOBILE except aeronautical mobile",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.484A IND 17"
+        }
+    },
+    {
+        "range": "12.75-13.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.441 MOBILE Space research (deep space) (space-to-Earth)",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.441 MOBILE Space research (deep space) (space-to-Earth)",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.441 MOBILE Space research (deep space) (space-to-Earth)",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.441"
+        }
+    },
+    {
+        "range": "13.25-13.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (active) AERONAUTICAL RADIONAVIGATION 5.497 SPACE RESEARCH 5.498A 5.499",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (active) AERONAUTICAL RADIONAVIGATION 5.497 SPACE RESEARCH 5.498A 5.499",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (active) AERONAUTICAL RADIONAVIGATION 5.497 SPACE RESEARCH 5.498A 5.499",
+            "India": "EARTH EXPLORATION-SATELLITE (active) AERONAUTICAL RADIONAVIGATION 5.497 SPACE RESEARCH 5.498A 5.499"
+        }
+    },
+    {
+        "range": "13.4-13.65",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (active) FIXED FIXED-SATELLITE (Earth-to-space) 5.499A 5.499B RADIOLOCATION SPACE RESEARCH 5.499C 5.499D Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.501B",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (active) FIXED FIXED-SATELLITE (Earth-to-space) 5.499A 5.499B RADIOLOCATION SPACE RESEARCH 5.499C 5.499D Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.501B",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (active) FIXED FIXED-SATELLITE (Earth-to-space) 5.499A 5.499B RADIOLOCATION SPACE RESEARCH 5.499C 5.499D Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.501B",
+            "India": "EARTH EXPLORATION-SATELLITE (active) FIXED RADIOLOCATION SPACE RESEARCH 5.499C 5.499D Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.502 5.503"
+        }
+    },
+    {
+        "range": "13.65-13.75",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH 5.501A Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.501B",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH 5.501A Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.501B",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH 5.501A Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.501B",
+            "India": "EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH 5.501A Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.502 5.503"
+        }
+    },
+    {
+        "range": "13.75-14",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.484A RADIOLOCATION Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.502 5.503",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.484A RADIOLOCATION Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.502 5.503",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.484A RADIOLOCATION Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.500 5.501 5.502 5.503",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.484A RADIOLOCATION Standard frequency and time signal-satellite (Earth-to-space) 5.499 5.502 5.503"
+        }
+    },
+    {
+        "range": "14-14.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.484B 5.506 5.506B RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A 5.505",
+            " fourthRegion 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.484B 5.506 5.506B RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A 5.505",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.484B 5.506 5.506B RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A 5.505",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.484B 5.506 5.506B IND 17 RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A 5.504A"
+        }
+    },
+    {
+        "range": "14.25-14.3",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.484B 5.506 5.506B RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A 5.505 5.508",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.484B 5.506 5.506B RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A 5.505 5.508",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.484B 5.506 5.506B RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A 5.505 5.508",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.484B 5.506 5.506B IND 17 RADIOLOCATION Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A 5.504A 5.508"
+        }
+    },
+    {
+        "range": "14.3-14.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.506A 5.508A RADIOLOCATION 5.504A",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.506A 5.508A RADIOLOCATION 5.504A",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.506A 5.508A RADIOLOCATION 5.504A",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B IND 17 MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.506A 5.508A 5.504A"
+        }
+    },
+    {
+        "range": "14.4-14.47",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.506 5.506B MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.506 5.506B MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.457B 5.484A 5.506 5.506B MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A Space research 5.504A",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B IND 17 MOBILE except aeronautical mobile Mobile-satellite (Earth-to-space) 5.504B 5.504C 5.506A 5.504A"
+        }
+    },
+    {
+        "range": "14.47-14.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B MOBILE except aeronautical mobile Radio astronomy 5.149 5.504A",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B MOBILE except aeronautical mobile Radio astronomy 5.149 5.504A",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B MOBILE except aeronautical mobile Radio astronomy 5.149 5.504A",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.457A 5.484A 5.506 5.506B IND 17 MOBILE except aeronautical mobile Radio astronomy 5.149 5.504A"
+        }
+    },
+    {
+        "range": "14.5-14.75",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.509B 5.509C 5.509D 5.510 MOBILE Space research 5.509G",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.509B 5.509C 5.509D 5.510 MOBILE Space research 5.509G",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.509B 5.509C 5.509D 5.510 MOBILE Space research 5.509G",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.509B 5.509C 5.509D 5.510 MOBILE Space research 5.509G"
+        }
+    },
+    {
+        "range": "14.75-14.8",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.510 MOBILE Space research 5.509G",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.509B 5.509C 5.509D 5.510 MOBILE Space research 5.509G",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.509B 5.509C 5.509D 5.510 MOBILE Space research 5.509G",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.509B 5.509C 5.509D 5.510 MOBILE Space research 5.509G"
+        }
+    },
+    {
+        "range": "14.8-15.35",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED MOBILE Space research 5.339",
+            "Region 2": "FIXED MOBILE Space research 5.339",
+            "Region 3": "FIXED MOBILE Space research 5.339",
+            "India": "FIXED MOBILE Space research 5.339"
+        }
+    },
+    {
+        "range": "15.35-15.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340 5.511",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340 5.511",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340 5.511",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340 5.511"
+        }
+    },
+    {
+        "range": "15.4-15.43",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "Region 2": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "Region 3": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "India": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F"
+        }
+    },
+    {
+        "range": "15.43-15.63",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED-SATELLITE (Earth-to-space) 5.511A AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "Region 2": "FIXED-SATELLITE (Earth-to-space) 5.511A AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "Region 3": "FIXED-SATELLITE (Earth-to-space) 5.511A AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "India": "FIXED-SATELLITE (Earth-to-space) 5.511A AERONAUTICAL RADIONAVIGATION 5.511E 5.511F"
+        }
+    },
+    {
+        "range": "15.63-15.7",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "Region 2": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "Region 3": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F",
+            "India": "AERONAUTICAL RADIONAVIGATION 5.511E 5.511F"
+        }
+    },
+    {
+        "range": "16.6-17.1",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIOLOCATION, Space research (deep space) (Earth-to-space), 5.512 5.513",
+            "Region 2": "RADIOLOCATION, Space research (deep space) (Earth-to-space), 5.512 5.513",
+            "Region 3": "RADIOLOCATION, Space research (deep space) (Earth-to-space), 5.512 5.513",
+            "India": "FIXED, MOBILE, RADIOLOCATION, Space research (deep space) (Earth-to-space), 5.512"
+        }
+    },
+    {
+        "range": "17.1-17.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIOLOCATION, 5.512 5.513",
+            "Region 2": "RADIOLOCATION, 5.512 5.513",
+            "Region 3": "RADIOLOCATION, 5.512 5.513",
+            "India": "FIXED, MOBILE, RADIOLOCATION, 5.512"
+        }
+    },
+    {
+        "range": "17.2-17.3",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (active), RADIOLOCATION, SPACE RESEARCH (active), 5.512 5.513 5.513A",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (active), RADIOLOCATION, SPACE RESEARCH (active), 5.512 5.513 5.513A",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (active), RADIOLOCATION, SPACE RESEARCH (active), 5.512 5.513A",
+            "India": "FIXED, MOBILE, EARTH EXPLORATION-SATELLITE (active), RADIOLOCATION, SPACE RESEARCH (active), 5.512 5.513A"
+        }
+    },
+    {
+        "range": "17.3-17.7",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED-SATELLITE (Earth-to-space) 5.516, (space-to-Earth) 5.516A 5.516B, Radiolocation, 5.514",
+            "Region 2": "FIXED-SATELLITE (Earth-to-space) 5.516, BROADCASTING-SATELLITE, Radiolocation, 5.514 5.515",
+            "Region 3": "FIXED-SATELLITE (Earth-to-space) 5.516, Radiolocation, 5.514",
+            "India": "FIXED-SATELLITE (Earth-to-space) 5.516, Radiolocation, Fixed, Mobile, 5.514"
+        }
+    },
+    {
+        "range": "17.7-18.1",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.517A, (Earth-to-space) 5.516, MOBILE",
+            "Region 2": "17.7-17.8: FIXED, FIXED-SATELLITE (space-to-Earth) 5.517 5.517A, (Earth-to-space) 5.516, BROADCASTING-SATELLITE, Mobile, 5.515; 17.8-18.1: FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.517A, (Earth-to-space) 5.516, MOBILE, 5.519",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.517A, (Earth-to-space) 5.516, MOBILE",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.517A, (Earth-to-space) 5.516, MOBILE"
+        }
+    },
+    {
+        "range": "18.1-18.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A, (Earth-to-space) 5.520, 5.519 5.521",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A, (Earth-to-space) 5.520",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A, (Earth-to-space) 5.520",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A, (Earth-to-space) 5.520, 5.519"
+        }
+    },
+    {
+        "range": "18.4-18.6",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.517A"
+        }
+    },
+    {
+        "range": "18.6-18.8",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), FIXED, FIXED-SATELLITE (space-to-Earth) 5.517A 5.522B, MOBILE except aeronautical mobile, Space research (passive), 5.522A 5.522C",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), FIXED, FIXED-SATELLITE (space-to-Earth) 5.516B 5.517A 5.522B, MOBILE except aeronautical mobile, SPACE RESEARCH (passive), 5.522A",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), FIXED, FIXED-SATELLITE (space-to-Earth) 5.517A 5.522B, MOBILE except aeronautical mobile, Space research (passive), 5.522A",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) IND 31, FIXED, FIXED-SATELLITE (space-to-Earth) 5.517A 5.522B, MOBILE except aeronautical mobile, Space research (passive), 5.522A"
+        }
+    },
+    {
+        "range": "18.8-19.3",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.516B 5.517A 5.523A, MOBILE",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.516B 5.517A 5.523A, MOBILE",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.516B 5.517A 5.523A, MOBILE",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth) 5.516B 5.517A 5.523A, 5.514A IND 17, MOBILE"
+        }
+    },
+    {
+        "range": "19.3-19.7",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth) (Earth-to-space) 5.517A 5.523B 5.523C 5.523D 5.523E, MOBILE",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth) (Earth-to-space) 5.517A 5.523B 5.523C 5.523D 5.523E, MOBILE",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth) (Earth-to-space) 5.517A 5.523B 5.523C 5.523D 5.523E, MOBILE",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth) (Earth-to-space) 5.517A 5.523B 5.523C 5.523D 5.523E IND 17, MOBILE"
+        }
+    },
+    {
+        "range": "19.7-20.1",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.527A, Mobile-satellite (space-to-Earth), 5.524",
+            "Region 2": "FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.527A, MOBILE-SATELLITE (space-to-Earth), 5.529",
+            "Region 3": "FIXED-SATELLITE (space-to-Earth) 5.484A 5.516B 5.527A, Mobile-satellite (space-to-Earth), 5.524",
+            "India": "FIXED, MOBILE, FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B 5.516B 5.527A IND 17 IND 32, Mobile-satellite (space-to-Earth), 5.524"
+        }
+    },
+    {
+        "range": "20.1-20.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED-SATELLITE (space-to-Earth) 5.484A 5.484B 5.516B 5.527A, MOBILE-SATELLITE (space-to-Earth)",
+            "Region 2": "FIXED, MOBILE, FIXED-SATELLITE (space-to-Earth) IND 32, MOBILE-SATELLITE (space-to-Earth), Standard frequency and time signal-satellite (space-to-Earth), 5.524",
+            "Region 3": "FIXED, MOBILE, FIXED-SATELLITE (space-to-Earth) IND 32, MOBILE-SATELLITE (space-to-Earth), Standard frequency and time signal-satellite (space-to-Earth), 5.524",
+            "India": "FIXED, MOBILE, FIXED-SATELLITE (space-to-Earth) IND 32, MOBILE-SATELLITE (space-to-Earth), Standard frequency and time signal-satellite (space-to-Earth), 5.524"
+        }
+    },
+    {
+        "range": "21.2-21.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive)",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive)",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive)",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive)"
+        }
+    },
+    {
+        "range": "23.15-23.55",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, INTER-SATELLITE 5.338A, MOBILE",
+            "Region 2": "FIXED, INTER-SATELLITE 5.338A, MOBILE",
+            "Region 3": "FIXED, INTER-SATELLITE 5.338A, MOBILE",
+            "India": "FIXED, INTER-SATELLITE 5.338A, MOBILE"
+        }
+    },
+    {
+        "range": "23.55-23.6",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE",
+            "Region 2": "FIXED, MOBILE",
+            "Region 3": "FIXED, MOBILE",
+            "India": "FIXED, MOBILE"
+        }
+    },
+    {
+        "range": "23.6-24",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340"
+        }
+    },
+    {
+        "range": "24-24.05",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "AMATEUR, AMATEUR-SATELLITE, 5.150",
+            "Region 2": "AMATEUR, AMATEUR-SATELLITE, 5.150",
+            "Region 3": "AMATEUR, AMATEUR-SATELLITE, 5.150",
+            "India": "AMATEUR, AMATEUR-SATELLITE, 5.150 IND 33"
+        }
+    },
+    {
+        "range": "24.05-24.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIOLOCATION, Amateur, Earth exploration-satellite (active), 5.150",
+            "Region 2": "RADIOLOCATION, Amateur, Earth exploration-satellite (active), 5.150",
+            "Region 3": "RADIOLOCATION, Amateur, Earth exploration-satellite (active), 5.150",
+            "India": "RADIOLOCATION, Amateur, Earth exploration-satellite (active), 5.150 IND 33"
+        }
+    },
+    {
+        "range": "24.25-24.45",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE except aeronautical mobile 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.522A, MOBILE except aeronautical mobile 5.338A, 5.522AB, RADIONAVIGATION",
+            "Region 3": "FIXED, MOBILE 5.338A, 5.522AB, RADIONAVIGATION",
+            "India": "FIXED, MOBILE 5.338A, 5.522AB IND 16, RADIONAVIGATION"
+        }
+    },
+    {
+        "range": "24.45-24.65",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.522A, INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB, RADIOLOCATION-SATELLITE (Earth-to-space), 5.533",
+            "Region 3": "FIXED, INTER-SATELLITE, MOBILE 5.338A, 5.522AB, RADIONAVIGATION",
+            "India": "FIXED, INTER-SATELLITE, MOBILE 5.338A, 5.522AB IND 16, 5.533"
+        }
+    },
+    {
+        "range": "24.65-24.75",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (Earth-to-space), 5.522B, INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.522A, INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB, RADIOLOCATION-SATELLITE (Earth-to-space)",
+            "Region 3": "FIXED, FIXED-SATELLITE (Earth-to-space) 5.522B, INTER-SATELLITE, MOBILE 5.338A, 5.522AB",
+            "India": "FIXED, FIXED-SATELLITE (Earth-to-space) 5.522B, INTER-SATELLITE, MOBILE 5.338A, 5.522AB IND 16"
+        }
+    },
+    {
+        "range": "24.75-25.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.522A, FIXED-SATELLITE (Earth-to-space) 5.535, MOBILE 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.522A, FIXED-SATELLITE (Earth-to-space) 5.535, MOBILE 5.338A, 5.522AB, Mobile except aeronautical mobile",
+            "Region 3": "FIXED 5.522A, FIXED-SATELLITE (Earth-to-space) 5.535, MOBILE 5.338A, 5.522AB",
+            "India": "FIXED 5.522A, FIXED-SATELLITE (Earth-to-space) 5.535, MOBILE 5.338A, 5.522AB IND 16"
+        }
+    },
+    {
+        "range": "25.25-25.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB IND 16",
+            "Region 2": "FIXED, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB IND 16, Standard frequency and time signal-satellite (Earth-to-space)",
+            "Region 3": "FIXED, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB IND 16",
+            "India": "FIXED, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB IND 16"
+        }
+    },
+    {
+        "range": "24.45-24.65",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.522AA, INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB, RADIONAVIGATION, 5.533",
+            "Region 3": "FIXED, INTER-SATELLITE, MOBILE 5.338A, 5.522AB, RADIONAVIGATION, 5.533",
+            "India": "FIXED, INTER-SATELLITE, MOBILE 5.338A, 5.522AB IND 16, RADIONAVIGATION, 5.533"
+        }
+    },
+    {
+        "range": "24.65-24.75",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (Earth-to-space), INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.522A, INTER-SATELLITE, MOBILE except aeronautical mobile 5.338A, 5.522AB, RADIOLOCATION-SATELLITE (Earth-to-space)",
+            "Region 3": "FIXED, INTER-SATELLITE (Earth-to-space) 5.522B, MOBILE 5.338A, 5.522AB",
+            "India": "FIXED, FIXED-SATELLITE (Earth-to-space) 5.522B, INTER-SATELLITE, MOBILE 5.338A, 5.522AB IND 16"
+        }
+    },
+    {
+        "range": "24.75-25.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (Earth-to-space), INTER-SATELLITE, MOBILE 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.522AA, FIXED-SATELLITE (Earth-to-space) 5.535, MOBILE 5.338A, 5.522AB",
+            "Region 3": "FIXED, FIXED-SATELLITE (Earth-to-space) 5.535, MOBILE 5.338A, 5.522AB",
+            "India": "FIXED, FIXED-SATELLITE (Earth-to-space) 5.535, INTER-SATELLITE, MOBILE 5.338A, 5.522AB IND 16"
+        }
+    },
+    {
+        "range": "25.25-25.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.534A, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.534A, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB",
+            "Region 3": "FIXED 5.534A, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB",
+            "India": "FIXED 5.534A, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB IND 16"
+        }
+    },
+    {
+        "range": "25.5-25.7",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (space-to-Earth) 5.536B, FIXED 5.534A, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB, SPACE RESEARCH (space-to-Earth) 5.536C, Standard frequency and time signal-satellite (Earth-to-space)",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (space-to-Earth) 5.536B, FIXED 5.534A, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB, SPACE RESEARCH (space-to-Earth) 5.536C, Standard frequency and time signal-satellite (Earth-to-space)",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (space-to-Earth) 5.536B, FIXED 5.534A, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB, SPACE RESEARCH (space-to-Earth) 5.536C, Standard frequency and time signal-satellite (Earth-to-space)",
+            "India": "EARTH EXPLORATION-SATELLITE (space-to-Earth) 5.536B, FIXED 5.534A IND 16, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB IND 16, SPACE RESEARCH (space-to-Earth), Standard frequency and time signal-satellite (Earth-to-space), 5.536A"
+        }
+    },
+    {
+        "range": "27-27.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED, INTER-SATELLITE 5.536, MOBILE 5.338A, 5.522AB",
+            "Region 2": "FIXED 5.534A, FIXED-SATELLITE (Earth-to-space), INTER-SATELLITE 5.536, 5.537, MOBILE 5.338A, 5.522AB",
+            "Region 3": "FIXED 5.534A, FIXED-SATELLITE (Earth-to-space), INTER-SATELLITE 5.536, 5.537, MOBILE 5.338A, 5.522AB",
+            "India": "FIXED 5.534A, FIXED-SATELLITE (Earth-to-space), INTER-SATELLITE 5.536, 5.537, MOBILE 5.338A, 5.522AB IND 16"
+        }
+    },
+    {
+        "range": "27.5-28.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.537A, FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, 5.539, MOBILE, 5.538, 5.540",
+            "Region 2": "FIXED 5.537A, FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, 5.539, MOBILE",
+            "Region 3": "FIXED 5.537A, FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, 5.539, MOBILE",
+            "India": "FIXED 5.537A, FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, 5.522A, 5.538 IND 17, 5.539, 5.540"
+        }
+    },
+    {
+        "range": "28.5-29.1",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, SPACE RESEARCH (Earth-to-space), 5.541",
+            "Region 2": "FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, SPACE RESEARCH (Earth-to-space), 5.541",
+            "Region 3": "FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, SPACE RESEARCH (Earth-to-space), 5.541",
+            "India": "FIXED-SATELLITE (Earth-to-space) 5.484A, 5.516B, 5.517A, 5.522A, 5.539, 5.540, SPACE RESEARCH (Earth-to-space), 5.541"
+        }
+    },
+    {
+        "range": "29.1-29.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.516B 5.517A 5.522C 5.523A 5.523B 5.535A 5.541A MOBILE Earth exploration-satellite (Earth-to-space) 5.541 5.525 5.526 5.527 5.538 5.540 5.542",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.516B 5.517A 5.522C 5.523A 5.523B 5.535A 5.541A MOBILE Earth exploration-satellite (Earth-to-space) 5.541 5.525 5.526 5.527 5.538 5.540 5.542",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.516B 5.517A 5.522C 5.523A 5.523B 5.535A 5.541A MOBILE Earth exploration-satellite (Earth-to-space) 5.541 5.525 5.526 5.527 5.538 5.540 5.542",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.516B 5.517A 5.523A 5.523B 5.535A 5.541A MOBILE Earth exploration-satellite (Earth-to-space) 5.541 5.525 5.526 5.527 5.538 5.540 5.542"
+        }
+    },
+    {
+        "range": "29.25-29.9",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.484B 5.516B 5.527A 5.539 Earth exploration-satellite (Earth-to-space) 5.541 MOBILE-SATELLITE (Earth-to-space) 5.525 5.526 5.527 5.538 5.540 5.542",
+            "Region 2": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.484B 5.516B 5.527A 5.539 Earth exploration-satellite (Earth-to-space) 5.541 MOBILE-SATELLITE (Earth-to-space) 5.525 5.526 5.527 5.538 5.540 5.542",
+            "Region 3": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.484B 5.516B 5.527A 5.539 Earth exploration-satellite (Earth-to-space) 5.541 MOBILE-SATELLITE (Earth-to-space) 5.525 5.526 5.527 5.538 5.540 5.542",
+            "India": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.484B 5.516B 5.527A 5.539 IND 17 IND 32 Earth exploration-satellite (Earth-to-space) 5.541 MOBILE-SATELLITE (Earth-to-space) 5.525 5.526 5.527 5.538 5.540 5.542"
+        }
+    },
+    {
+        "range": "29.9-30",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.516B 5.539 MOBILE-SATELLITE (Earth-to-space) Standard frequency and time signal-satellite (space-to-Earth) 5.542",
+            "Region 2": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.516B 5.539 MOBILE-SATELLITE (Earth-to-space) Standard frequency and time signal-satellite (space-to-Earth) 5.542",
+            "Region 3": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.516B 5.539 MOBILE-SATELLITE (Earth-to-space) Standard frequency and time signal-satellite (space-to-Earth) 5.542",
+            "India": "FIXED-SATELLITE (Earth-to-space) 5.484A 5.516B 5.539 IND 32 MOBILE-SATELLITE (Earth-to-space) Standard frequency and time signal-satellite (space-to-Earth) 5.542"
+        }
+    },
+    {
+        "range": "30-31",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "MOBILE-SATELLITE (Earth-to-space) 5.538A Standard frequency and time signal-satellite (space-to-Earth) 5.542",
+            "Region 2": "MOBILE-SATELLITE (Earth-to-space) 5.538A Standard frequency and time signal-satellite (space-to-Earth) 5.542",
+            "Region 3": "MOBILE-SATELLITE (Earth-to-space) 5.538A Standard frequency and time signal-satellite (space-to-Earth) 5.542",
+            "India": "MOBILE-SATELLITE (Earth-to-space) 5.538A IND 32 Standard frequency and time signal-satellite (space-to-Earth) 5.542"
+        }
+    },
+    {
+        "range": "31-31.3",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.538A 5.543B MOBILE Standard frequency and time signal-satellite (space-to-Earth) 5.149 5.544 5.545",
+            "Region 2": "FIXED 5.538A 5.543B MOBILE Standard frequency and time signal-satellite (space-to-Earth) 5.149 5.544 5.545",
+            "Region 3": "FIXED 5.538A 5.543B MOBILE Standard frequency and time signal-satellite (space-to-Earth) 5.149 5.544 5.545",
+            "India": "FIXED 5.538A 5.543B MOBILE Standard frequency and time signal-satellite (space-to-Earth) 5.149 5.544 5.545"
+        }
+    },
+    {
+        "range": "31.3-31.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "31.5-31.8",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) Fixed Mobile except aeronautical mobile 5.149 5.546",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) Fixed Mobile except aeronautical mobile 5.149 5.546",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) Fixed Mobile except aeronautical mobile 5.149 5.546",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) RADIO ASTRONOMY SPACE RESEARCH (passive) Fixed Mobile except aeronautical mobile 5.149 5.546"
+        }
+    },
+    {
+        "range": "31.8-32",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.547A RADIONAVIGATION SPACE RESEARCH (deep space) (space-to-Earth) 5.547 5.547B 5.548",
+            "Region 2": "FIXED 5.547A RADIONAVIGATION SPACE RESEARCH (deep space) (space-to-Earth) 5.547 5.547B 5.548",
+            "Region 3": "FIXED 5.547A RADIONAVIGATION SPACE RESEARCH (deep space) (space-to-Earth) 5.547 5.547B 5.548",
+            "India": "FIXED 5.547A RADIONAVIGATION SPACE RESEARCH (deep space) (space-to-Earth) 5.547 5.548"
+        }
+    },
+    {
+        "range": "32-32.3",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.547A RADIONAVIGATION SPACE RESEARCH (deep space) (space-to-Earth) 5.547 5.547C 5.548",
+            "Region 2": "FIXED 5.547A RADIONAVIGATION SPACE RESEARCH (deep space) (space-to-Earth) 5.547 5.547C 5.548",
+            "Region 3": "FIXED 5.547A RADIONAVIGATION SPACE RESEARCH (deep space) (space-to-Earth) 5.547 5.547C 5.548",
+            "India": "FIXED 5.547A RADIONAVIGATION 5.547 5.548"
+        }
+    },
+    {
+        "range": "32.3-33",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.547A INTER-SATELLITE RADIONAVIGATION 5.547 5.547D 5.548",
+            "Region 2": "FIXED 5.547A INTER-SATELLITE RADIONAVIGATION 5.547 5.547D 5.548",
+            "Region 3": "FIXED 5.547A INTER-SATELLITE RADIONAVIGATION 5.547 5.547D 5.548",
+            "India": "FIXED 5.547A INTER-SATELLITE RADIONAVIGATION 5.547 5.548"
+        }
+    },
+    {
+        "range": "33-33.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.547A RADIONAVIGATION 5.547 5.547E",
+            "Region 2": "FIXED 5.547A RADIONAVIGATION 5.547 5.547E",
+            "Region 3": "FIXED 5.547A RADIONAVIGATION 5.547 5.547E",
+            "India": "FIXED 5.547A RADIONAVIGATION 5.547"
+        }
+    },
+    {
+        "range": "33.4-34.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIOLOCATION 5.549",
+            "Region 2": "RADIOLOCATION 5.549",
+            "Region 3": "RADIOLOCATION 5.549",
+            "India": "RADIOLOCATION 5.549"
+        }
+    },
+    {
+        "range": "34.2-34.7",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIOLOCATION SPACE RESEARCH (deep space) (Earth-to-space) 5.549",
+            "Region 2": "RADIOLOCATION SPACE RESEARCH (deep space) (Earth-to-space) 5.549",
+            "Region 3": "RADIOLOCATION SPACE RESEARCH (deep space) (Earth-to-space) 5.549",
+            "India": "RADIOLOCATION SPACE RESEARCH (deep space) (Earth-to-space) 5.549"
+        }
+    },
+    {
+        "range": "34.7-35.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIOLOCATION Space research 5.550 5.549",
+            "Region 2": "RADIOLOCATION Space research 5.550 5.549",
+            "Region 3": "RADIOLOCATION Space research 5.550 5.549",
+            "India": "RADIOLOCATION Space research 5.550 5.549"
+        }
+    },
+    {
+        "range": "35.2-35.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "METEOROLOGICAL AIDS RADIOLOCATION 5.549",
+            "Region 2": "METEOROLOGICAL AIDS RADIOLOCATION 5.549",
+            "Region 3": "METEOROLOGICAL AIDS RADIOLOCATION 5.549",
+            "India": "METEOROLOGICAL AIDS RADIOLOCATION 5.549"
+        }
+    },
+    {
+        "range": "35.5-36",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "METEOROLOGICAL AIDS EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH (active) 5.549 5.549A",
+            "Region 2": "METEOROLOGICAL AIDS EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH (active) 5.549 5.549A",
+            "Region 3": "METEOROLOGICAL AIDS EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH (active) 5.549 5.549A",
+            "India": "METEOROLOGICAL AIDS EARTH EXPLORATION-SATELLITE (active) RADIOLOCATION SPACE RESEARCH (active) 5.549A"
+        }
+    },
+    {
+        "range": "36-37",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.149 5.550A",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.149 5.550A",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.149 5.550A",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.149 5.550A"
+        }
+    },
+    {
+        "range": "37-37.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED MOBILE except aeronautical mobile SPACE RESEARCH (space-to-Earth) 5.547",
+            "Region 2": "FIXED MOBILE except aeronautical mobile SPACE RESEARCH (space-to-Earth) 5.547",
+            "Region 3": "FIXED MOBILE except aeronautical mobile SPACE RESEARCH (space-to-Earth) 5.547",
+            "India": "FIXED MOBILE except aeronautical mobile 5.550B IND 16 SPACE RESEARCH (space-to-Earth) 5.547"
+        }
+    },
+    {
+        "range": "37.5-38",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE except aeronautical mobile 5.550B SPACE RESEARCH (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE except aeronautical mobile 5.550B SPACE RESEARCH (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE except aeronautical mobile 5.550B SPACE RESEARCH (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE except aeronautical mobile 5.550B IND 16 SPACE RESEARCH (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547"
+        }
+    },
+    {
+        "range": "38-39.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.550D FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE 5.550B Earth exploration-satellite (space-to-Earth) 5.547",
+            "Region 2": "FIXED 5.550D FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE 5.550B Earth exploration-satellite (space-to-Earth) 5.547",
+            "Region 3": "FIXED 5.550D FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE 5.550B Earth exploration-satellite (space-to-Earth) 5.547",
+            "India": "FIXED 5.550D FIXED-SATELLITE (space-to-Earth) 5.550C MOBILE 5.550B IND 16 Earth exploration-satellite (space-to-Earth) 5.547"
+        }
+    },
+    {
+        "range": "39.5-40",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B MOBILE-SATELLITE (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547 5.550E",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B MOBILE-SATELLITE (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547 5.550E",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B MOBILE-SATELLITE (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547 5.550E",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B IND 16 MOBILE-SATELLITE (space-to-Earth) Earth exploration-satellite (space-to-Earth) 5.547 5.550E"
+        }
+    },
+    {
+        "range": "40-40.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (Earth-to-space) FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B MOBILE-SATELLITE (space-to-Earth) SPACE RESEARCH (Earth-to-space) Earth exploration-satellite (space-to-Earth) 5.550E",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (Earth-to-space) FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B MOBILE-SATELLITE (space-to-Earth) SPACE RESEARCH (Earth-to-space) Earth exploration-satellite (space-to-Earth) 5.550E",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (Earth-to-space) FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B MOBILE-SATELLITE (space-to-Earth) SPACE RESEARCH (Earth-to-space) Earth exploration-satellite (space-to-Earth) 5.550E",
+            "India": "EARTH EXPLORATION-SATELLITE (Earth-to-space) FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C MOBILE 5.550B IND 16 MOBILE-SATELLITE (space-to-Earth) SPACE RESEARCH (Earth-to-space) Earth exploration-satellite (space-to-Earth) 5.550E"
+        }
+    },
+    {
+        "range": "40.5-41",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.550C LAND MOBILE 5.550B BROADCASTING BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile 5.547",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C LAND MOBILE 5.550B BROADCASTING BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile Mobile-satellite (space-to-Earth) 5.547",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.550C LAND MOBILE 5.550B BROADCASTING BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile 5.547",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.550C LAND MOBILE 5.550B IND 16 BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile 5.547"
+        }
+    },
+    {
+        "range": "41-42.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C LAND MOBILE 5.550B BROADCASTING BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile 5.547 5.551F 5.551H 5.551I",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C LAND MOBILE 5.550B BROADCASTING BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile 5.547 5.551H 5.551I",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C LAND MOBILE 5.550B BROADCASTING BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile 5.547 5.551H 5.551I",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) 5.516B 5.550C LAND MOBILE 5.550B IND 16 BROADCASTING BROADCASTING-SATELLITE Aeronautical mobile Maritime mobile 5.547 5.551H 5.551I"
+        }
+    },
+    {
+        "range": "42.5-43.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.552 MOBILE except aeronautical mobile 5.550B RADIO ASTRONOMY 5.149 5.547",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.552 MOBILE except aeronautical mobile 5.550B RADIO ASTRONOMY 5.149 5.547",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.552 MOBILE except aeronautical mobile 5.550B RADIO ASTRONOMY 5.149 5.547",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.552 MOBILE except aeronautical mobile 5.550B IND 16 RADIO ASTRONOMY 5.149 5.547"
+        }
+    },
+    {
+        "range": "43.5-47",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "MOBILE 5.553 5.553A MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554",
+            "Region 2": "MOBILE 5.553 5.553A MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554",
+            "Region 3": "MOBILE 5.553 5.553A MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554",
+            "India": "MOBILE 5.553 MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554"
+        }
+    },
+    {
+        "range": "47-47.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "AMATEUR AMATEUR-SATELLITE",
+            "Region 2": "AMATEUR AMATEUR-SATELLITE",
+            "Region 3": "AMATEUR AMATEUR-SATELLITE",
+            "India": "AMATEUR AMATEUR-SATELLITE"
+        }
+    },
+    {
+        "range": "47.2-47.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.552A",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.552A",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.552A",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B IND 16 5.552A"
+        }
+    },
+    {
+        "range": "47.5-47.9",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 (space-to-Earth) 5.516B MOBILE 5.553B 5.554A 5.553B",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.554A 5.553B",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.554A 5.553B",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B IND 16 5.554A 5.553B"
+        }
+    },
+    {
+        "range": "47.9-48.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.552A",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.552A",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B 5.552A",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.553B IND 16 5.552A"
+        }
+    },
+    {
+        "range": "48.2-50.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 (space-to-Earth) 5.516B 5.554A 5.555B MOBILE 5.554A 5.555B",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.516B 5.538A 5.550C 5.552 MOBILE",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.516B 5.538A 5.550C 5.552 MOBILE",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.516B 5.538A 5.550C 5.552 MOBILE"
+        }
+    },
+    {
+        "range": "48.54-49.44",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.550C 5.552 MOBILE 5.149 5.340 5.555",
+            "Region 2": "",
+            "Region 3": "",
+            "India": ""
+        }
+    },
+    {
+        "range": "49.44-50.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.338A 5.550C 5.552 MOBILE 5.554A 5.555B",
+            "Region 2": "",
+            "Region 3": "",
+            "India": ""
+        }
+    },
+    {
+        "range": "50.2-50.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "50.4-51.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.338A 5.550C MOBILE Mobile-satellite (Earth-to-space)",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.338A 5.550C MOBILE Mobile-satellite (Earth-to-space)",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.338A 5.550C MOBILE Mobile-satellite (Earth-to-space)",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.338A 5.550C MOBILE Mobile-satellite (Earth-to-space)"
+        }
+    },
+    {
+        "range": "51.4-52.4",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (Earth-to-space) 5.555C MOBILE 5.338A 5.547 5.556",
+            "Region 2": "FIXED FIXED-SATELLITE (Earth-to-space) 5.555C MOBILE 5.338A 5.547 5.556",
+            "Region 3": "FIXED FIXED-SATELLITE (Earth-to-space) 5.555C MOBILE 5.338A 5.547 5.556",
+            "India": "FIXED FIXED-SATELLITE (Earth-to-space) 5.555C MOBILE 5.338A 5.547 5.556"
+        }
+    },
+    {
+        "range": "52.4-52.6",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.338A MOBILE 5.547 5.556",
+            "Region 2": "FIXED 5.338A MOBILE 5.547 5.556",
+            "Region 3": "FIXED 5.338A MOBILE 5.547 5.556",
+            "India": "FIXED 5.338A MOBILE 5.547 5.556"
+        }
+    },
+    {
+        "range": "52.6-54.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340 5.556",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340 5.556",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340 5.556",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) SPACE RESEARCH (passive) 5.340 5.556"
+        }
+    },
+    {
+        "range": "54.25-55.78",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) INTER-SATELLITE 5.556A SPACE RESEARCH (passive) 5.556B",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) INTER-SATELLITE 5.556A SPACE RESEARCH (passive) 5.556B",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) INTER-SATELLITE 5.556A SPACE RESEARCH (passive) 5.556B",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) INTER-SATELLITE 5.556A SPACE RESEARCH (passive)"
+        }
+    },
+    {
+        "range": "55.78-56.9",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) FIXED 5.557A INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) FIXED 5.557A INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) FIXED 5.557A INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) FIXED 5.557A INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557"
+        }
+    },
+    {
+        "range": "56.9-57",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.558A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.558A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.558A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.558A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557"
+        }
+    },
+    {
+        "range": "57-58.2",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 SPACE RESEARCH (passive) 5.547 5.557"
+        }
+    },
+    {
+        "range": "58.2-59",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.547 5.556",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.547 5.556",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.547 5.556",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) FIXED MOBILE SPACE RESEARCH (passive) 5.547 5.556"
+        }
+    },
+    {
+        "range": "59-59.3",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 RADIOLOCATION 5.559 SPACE RESEARCH (passive) 5.138 5.556",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 RADIOLOCATION 5.559 SPACE RESEARCH (passive) 5.138 5.556",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 RADIOLOCATION 5.559 SPACE RESEARCH (passive) 5.138 5.556",
+            "India": "EARTH EXPLORATION-SATELLITE (passive) FIXED INTER-SATELLITE 5.556A MOBILE 5.558 RADIOLOCATION 5.559 SPACE RESEARCH (passive) 5.138 5.556"
+        }
+    },
+    {
+        "range": "59.3-64",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED INTER-SATELLITE MOBILE 5.558 RADIOLOCATION 5.559 5.138",
+            "Region 2": "FIXED INTER-SATELLITE MOBILE 5.558 RADIOLOCATION 5.559 5.138",
+            "Region 3": "FIXED INTER-SATELLITE MOBILE 5.558 RADIOLOCATION 5.559 5.138",
+            "India": "FIXED INTER-SATELLITE MOBILE 5.558 RADIOLOCATION 5.559 5.138"
+        }
+    },
+    {
+        "range": "64-65",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED INTER-SATELLITE MOBILE except aeronautical mobile 5.558 5.138 5.547",
+            "Region 2": "FIXED INTER-SATELLITE MOBILE except aeronautical mobile 5.558 5.138 5.547",
+            "Region 3": "FIXED INTER-SATELLITE MOBILE except aeronautical mobile 5.558 5.138 5.547",
+            "India": "FIXED INTER-SATELLITE MOBILE except aeronautical mobile 5.558 5.138 5.547"
+        }
+    },
+    {
+        "range": "65-66",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE FIXED MOBILE except aeronautical mobile SPACE RESEARCH 5.547",
+            "Region 2": "EARTH EXPLORATION-SATELLITE FIXED MOBILE except aeronautical mobile SPACE RESEARCH 5.547",
+            "Region 3": "EARTH EXPLORATION-SATELLITE FIXED MOBILE except aeronautical mobile SPACE RESEARCH 5.547",
+            "India": "EARTH EXPLORATION-SATELLITE FIXED MOBILE except aeronautical mobile SPACE RESEARCH 5.547"
+        }
+    },
+    {
+        "range": "66-71",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED 5.559B INTER-SATELLITE MOBILE 5.558 MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554 5.559AA",
+            "Region 2": "FIXED 5.559B INTER-SATELLITE MOBILE 5.558 MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554 5.559AA",
+            "Region 3": "FIXED 5.559B INTER-SATELLITE MOBILE 5.558 MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554 5.559AA",
+            "India": "FIXED 5.559B INTER-SATELLITE MOBILE 5.558 MOBILE-SATELLITE RADIONAVIGATION RADIONAVIGATION-SATELLITE 5.554 5.559AA"
+        }
+    },
+    {
+        "range": "71-74",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE MOBILE-SATELLITE (space-to-Earth) 5.559C",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE MOBILE-SATELLITE (space-to-Earth) 5.559C",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE MOBILE-SATELLITE (space-to-Earth) 5.559C",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE MOBILE-SATELLITE (space-to-Earth) 5.559C"
+        }
+    },
+    {
+        "range": "74-76",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE BROADCASTING BROADCASTING-SATELLITE Space research (space-to-Earth) 5.561",
+            "Region 2": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE BROADCASTING BROADCASTING-SATELLITE Space research (space-to-Earth) 5.561",
+            "Region 3": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE BROADCASTING BROADCASTING-SATELLITE Space research (space-to-Earth) 5.561",
+            "India": "FIXED FIXED-SATELLITE (space-to-Earth) MOBILE BROADCASTING BROADCASTING-SATELLITE Space research (space-to-Earth) 5.561"
+        }
+    },
+    {
+        "range": "76-77.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149",
+            "Region 2": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149",
+            "Region 3": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149",
+            "India": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149"
+        }
+    },
+    {
+        "range": "77.5-78",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.560 5.149",
+            "Region 2": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.560 5.149",
+            "Region 3": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.560 5.5",
+            "India": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.560 5.5"
+        }
+    },
+    {
+        "range": "78-79",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149 5.560",
+            "Region 2": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149 5.560",
+            "Region 3": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149 5.560",
+            "India": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite Space research (space-to-Earth) 5.149 5.560"
+        }
+    },
+    {
+        "range": "79-81",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.149 5.561A",
+            "Region 2": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.149 5.561A",
+            "Region 3": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.149 5.561A",
+            "India": "RADIO ASTRONOMY RADIOLOCATION Amateur Amateur-satellite 5.149 5.561A"
+        }
+    },
+    {
+        "range": "78-79",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "RADIOLOCATION, Amateur, Amateur-satellite, Radio astronomy, Space research (space-to-Earth), 5.149, 5.560",
+            "Region 3": "RADIOLOCATION, Amateur, Amateur-satellite, Radio astronomy, Space research (space-to-Earth), 5.149, 5.560",
+            "India": "RADIOLOCATION, Amateur, Amateur-satellite, Radio astronomy, Space research (space-to-Earth), 5.149, 5.560"
+        }
+    },
+    {
+        "range": "79-81",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "RADIO ASTRONOMY, RADIOLOCATION, Amateur, Amateur-satellite, Space research (space-to-Earth), 5.149",
+            "Region 3": "RADIO ASTRONOMY, RADIOLOCATION, Amateur, Amateur-satellite, Space research (space-to-Earth), 5.149",
+            "India": "RADIO ASTRONOMY, RADIOLOCATION, Amateur, Amateur-satellite, Space research (space-to-Earth), 5.149"
+        }
+    },
+    {
+        "range": "81-84",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED 5.338A, FIXED-SATELLITE (Earth-to-space), MOBILE, MOBILE-SATELLITE (Earth-to-space), RADIO ASTRONOMY, Space research (space-to-Earth), 5.149, 5.561A",
+            "Region 3": "FIXED 5.338A, FIXED-SATELLITE (Earth-to-space), MOBILE, MOBILE-SATELLITE (Earth-to-space), RADIO ASTRONOMY, Space research (space-to-Earth), 5.149, 5.561A",
+            "India": "FIXED 5.338A, FIXED-SATELLITE (Earth-to-space), MOBILE, MOBILE-SATELLITE (Earth-to-space), RADIO ASTRONOMY, Space research (space-to-Earth), 5.149, 5.561A, IND 34"
+        }
+    },
+    {
+        "range": "84-86",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED 5.338A, FIXED-SATELLITE (Earth-to-space) 5.561B, MOBILE, RADIO ASTRONOMY, 5.149",
+            "Region 3": "FIXED 5.338A, FIXED-SATELLITE (Earth-to-space) 5.561B, MOBILE, RADIO ASTRONOMY, 5.149",
+            "India": "FIXED 5.338A, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY, 5.149, IND 34"
+        }
+    },
+    {
+        "range": "86-92",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340"
+        }
+    },
+    {
+        "range": "92-94",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED 5.338A, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, 5.149",
+            "Region 3": "FIXED 5.338A, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, 5.149",
+            "India": "FIXED 5.338A, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, 5.149"
+        }
+    },
+    {
+        "range": "94-94.1",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (active), RADIOLOCATION, SPACE RESEARCH (active), Radio astronomy, 5.562, 5.562A",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (active), RADIOLOCATION, SPACE RESEARCH (active), Radio astronomy, 5.562, 5.562A",
+            "India": "EARTH EXPLORATION-SATELLITE (active), RADIOLOCATION, SPACE RESEARCH (active), Radio astronomy, 5.562, 5.562A"
+        }
+    },
+    {
+        "range": "94.1-95",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, 5.149",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, 5.149",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, 5.149"
+        }
+    },
+    {
+        "range": "95-100",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, RADIONAVIGATION, RADIONAVIGATION-SATELLITE, 5.149, 5.554",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, RADIONAVIGATION, RADIONAVIGATION-SATELLITE, 5.149, 5.554",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION, RADIONAVIGATION, RADIONAVIGATION-SATELLITE, 5.149, 5.554"
+        }
+    },
+    {
+        "range": "100-102",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341"
+        }
+    },
+    {
+        "range": "102-105",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY, 5.149, 5.341",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY, 5.149, 5.341",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY, 5.149, 5.341"
+        }
+    },
+    {
+        "range": "105-109.5",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.562B, 5.149, 5.341",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.562B, 5.149, 5.341",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.562B, 5.149, 5.341"
+        }
+    },
+    {
+        "range": "109.5-111.8",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341"
+        }
+    },
+    {
+        "range": "111.8-114.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.149, 5.341, 5.562B",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.149, 5.341, 5.562B",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.149, 5.341, 5.562B"
+        }
+    },
+    {
+        "range": "114.25-116",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive), 5.340, 5.341"
+        }
+    },
+    {
+        "range": "116-119.98",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE, SPACE RESEARCH (passive), 5.341, 5.562C",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE, SPACE RESEARCH (passive), 5.341, 5.562C",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE, SPACE RESEARCH (passive), 5.341, 5.562C"
+        }
+    },
+    {
+        "range": "119.98-122.25",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE, SPACE RESEARCH (passive), 5.138, 5.341, 5.562C",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE, SPACE RESEARCH (passive), 5.138, 5.341, 5.562C",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE, SPACE RESEARCH (passive), 5.138, 5.341, 5.562C"
+        }
+    },
+    {
+        "range": "122.25-123",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED, INTER-SATELLITE, MOBILE, Amateur, 5.138, 5.558",
+            "Region 3": "FIXED, INTER-SATELLITE, MOBILE, Amateur, 5.138, 5.558",
+            "India": "FIXED, INTER-SATELLITE, MOBILE, Amateur, 5.138, 5.558"
+        }
+    },
+    {
+        "range": "123-130",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "FIXED-SATELLITE (space-to-Earth), MOBILE-SATELLITE (space-to-Earth), RADIONAVIGATION, RADIONAVIGATION-SATELLITE, Radio astronomy, 5.149, 5.554, 5.562D",
+            "Region 3": "FIXED-SATELLITE (space-to-Earth), MOBILE-SATELLITE (space-to-Earth), RADIONAVIGATION, RADIONAVIGATION-SATELLITE, Radio astronomy, 5.149, 5.554, 5.562D",
+            "India": "FIXED-SATELLITE (space-to-Earth), MOBILE-SATELLITE (space-to-Earth), RADIONAVIGATION, RADIONAVIGATION-SATELLITE, Radio astronomy, 5.149, 5.554"
+        }
+    },
+    {
+        "range": "130-134",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (active), FIXED, INTER-SATELLITE, MOBILE, RADIO ASTRONOMY, 5.149, 5.558, 5.562A, 5.562E",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (active), FIXED, INTER-SATELLITE, MOBILE, RADIO ASTRONOMY, 5.149, 5.558, 5.562A, 5.562E",
+            "India": "EARTH EXPLORATION-SATELLITE (active), FIXED, INTER-SATELLITE, MOBILE, RADIO ASTRONOMY, 5.149, 5.558, 5.562A, 5.562E"
+        }
+    },
+    {
+        "range": "134-136",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "AMATEUR, AMATEUR-SATELLITE, Radio astronomy",
+            "Region 3": "AMATEUR, AMATEUR-SATELLITE, Radio astronomy",
+            "India": "AMATEUR, AMATEUR-SATELLITE, Radio astronomy"
+        }
+    },
+    {
+        "range": "136-141",
+        "unit": "GHz",
+        "allocations": {
+            "Region 1": "",
+            "Region 2": "RADIO ASTRONOMY, RADIOLOCATION, Amateur, Amateur-satellite, 5.149",
+            "Region 3": "RADIO ASTRONOMY, RADIOLOCATION, Amateur, Amateur-satellite, 5.149",
+            "India": "RADIO ASTRONOMY, RADIOLOCATION, Amateur, Amateur-satellite, 5.149"
+        }
+    },
+    {
+        "range": "141-148.5",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149"
+        }
+    },
+    {
+        "range": "148.5-151.5",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "151.5-155.5",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY, RADIOLOCATION 5.149"
+        }
+    },
+    {
+        "range": "155.5-158.5",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE, RADIO ASTRONOMY 5.149",
+            "Region 2": "FIXED, MOBILE, RADIO ASTRONOMY 5.149",
+            "Region 3": "FIXED, MOBILE, RADIO ASTRONOMY 5.149",
+            "India": "FIXED, MOBILE, RADIO ASTRONOMY 5.149"
+        }
+    },
+    {
+        "range": "158.5-164",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, MOBILE-SATELLITE (space-to-Earth)",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, MOBILE-SATELLITE (space-to-Earth)",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, MOBILE-SATELLITE (space-to-Earth)",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, MOBILE-SATELLITE (space-to-Earth)"
+        }
+    },
+    {
+        "range": "164-167",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "167-174.5",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth), INTER-SATELLITE, MOBILE 5.558, 5.149, 5.562D",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth), INTER-SATELLITE, MOBILE 5.558, 5.149, 5.562D",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth), INTER-SATELLITE, MOBILE 5.558, 5.149, 5.562D",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth), INTER-SATELLITE, MOBILE 5.558, 5.149"
+        }
+    },
+    {
+        "range": "174.5-174.8",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, INTER-SATELLITE, MOBILE 5.558",
+            "Region 2": "FIXED, INTER-SATELLITE, MOBILE 5.558",
+            "Region 3": "FIXED, INTER-SATELLITE, MOBILE 5.558",
+            "India": "FIXED, INTER-SATELLITE, MOBILE 5.558"
+        }
+    },
+    {
+        "range": "174.8-182",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)"
+        }
+    },
+    {
+        "range": "182-185",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "185-190",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), INTER-SATELLITE 5.562H, SPACE RESEARCH (passive)"
+        }
+    },
+    {
+        "range": "190-191.8",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive) 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive) 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive) 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "191.8-200",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, INTER-SATELLITE, MOBILE 5.558, MOBILE-SATELLITE, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.341, 5.554",
+            "Region 2": "FIXED, INTER-SATELLITE, MOBILE 5.558, MOBILE-SATELLITE, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.341, 5.554",
+            "Region 3": "FIXED, INTER-SATELLITE, MOBILE 5.558, MOBILE-SATELLITE, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.341, 5.554",
+            "India": "FIXED, INTER-SATELLITE, MOBILE 5.558, MOBILE-SATELLITE, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.341, 5.554"
+        }
+    },
+    {
+        "range": "200-209",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.341, 5.563A",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.341, 5.563A",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.341, 5.563A",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.341, 5.563A"
+        }
+    },
+    {
+        "range": "209-217",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.341",
+            "Region 2": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.341",
+            "Region 3": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.341",
+            "India": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.341"
+        }
+    },
+    {
+        "range": "217-226",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.562B, 5.149, 5.341",
+            "Region 2": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.562B, 5.149, 5.341",
+            "Region 3": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.562B, 5.149, 5.341",
+            "India": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.562B, 5.149, 5.341"
+        }
+    },
+    {
+        "range": "226-231.5",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340"
+        }
+    },
+    {
+        "range": "231.5-232",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE, RADIOLOCATION",
+            "Region 2": "FIXED, MOBILE, RADIOLOCATION",
+            "Region 3": "FIXED, MOBILE, RADIOLOCATION",
+            "India": "FIXED, MOBILE, RADIOLOCATION"
+        }
+    },
+    {
+        "range": "232-235",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION"
+        }
+    },
+    {
+        "range": "235-238",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), FIXED-SATELLITE (space-to-Earth), SPACE RESEARCH (passive) 5.563A, 5.563B",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), FIXED-SATELLITE (space-to-Earth), SPACE RESEARCH (passive) 5.563A, 5.563B",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), FIXED-SATELLITE (space-to-Earth), SPACE RESEARCH (passive) 5.563A, 5.563B",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), FIXED-SATELLITE (space-to-Earth), SPACE RESEARCH (passive) 5.563A, 5.563B"
+        }
+    },
+    {
+        "range": "238-240",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION, RADIONAVIGATION, RADIONAVIGATION-SATELLITE",
+            "Region 2": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION, RADIONAVIGATION, RADIONAVIGATION-SATELLITE",
+            "Region 3": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION, RADIONAVIGATION, RADIONAVIGATION-SATELLITE",
+            "India": "FIXED, FIXED-SATELLITE (space-to-Earth), MOBILE, RADIOLOCATION, RADIONAVIGATION, RADIONAVIGATION-SATELLITE"
+        }
+    },
+    {
+        "range": "240-241",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE, RADIOLOCATION",
+            "Region 2": "FIXED, MOBILE, RADIOLOCATION",
+            "Region 3": "FIXED, MOBILE, RADIOLOCATION",
+            "India": "FIXED, MOBILE, RADIOLOCATION"
+        }
+    },
+    {
+        "range": "241-248",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "RADIO ASTRONOMY, RADIOLOCATION, AMATEUR, AMATEUR-SATELLITE 5.138, 5.149",
+            "Region 2": "RADIO ASTRONOMY, RADIOLOCATION, AMATEUR, AMATEUR-SATELLITE 5.138, 5.149",
+            "Region 3": "RADIO ASTRONOMY, RADIOLOCATION, AMATEUR, AMATEUR-SATELLITE 5.138, 5.149",
+            "India": "RADIO ASTRONOMY, RADIOLOCATION, AMATEUR, AMATEUR-SATELLITE 5.138, 5.149"
+        }
+    },
+    {
+        "range": "248-250",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "AMATEUR, AMATEUR-SATELLITE, RADIO ASTRONOMY 5.149",
+            "Region 2": "AMATEUR, AMATEUR-SATELLITE, RADIO ASTRONOMY 5.149",
+            "Region 3": "AMATEUR, AMATEUR-SATELLITE, RADIO ASTRONOMY 5.149",
+            "India": "AMATEUR, AMATEUR-SATELLITE, RADIO ASTRONOMY 5.149"
+        }
+    },
+    {
+        "range": "250-252",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.563A",
+            "Region 2": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.563A",
+            "Region 3": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.563A",
+            "India": "EARTH EXPLORATION-SATELLITE (passive), RADIO ASTRONOMY, SPACE RESEARCH (passive) 5.340, 5.563A"
+        }
+    },
+    {
+        "range": "252-265",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, MOBILE, MOBILE-SATELLITE (Earth-to-space), RADIO ASTRONOMY, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.554",
+            "Region 2": "FIXED, MOBILE, MOBILE-SATELLITE (Earth-to-space), RADIO ASTRONOMY, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.554",
+            "Region 3": "FIXED, MOBILE, MOBILE-SATELLITE (Earth-to-space), RADIO ASTRONOMY, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.554",
+            "India": "FIXED, MOBILE, MOBILE-SATELLITE (Earth-to-space), RADIO ASTRONOMY, RADIONAVIGATION, RADIONAVIGATION-SATELLITE 5.149, 5.554"
+        }
+    },
+    {
+        "range": "265-275",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.563A",
+            "Region 2": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.563A",
+            "Region 3": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.563A",
+            "India": "FIXED, FIXED-SATELLITE (Earth-to-space), MOBILE, RADIO ASTRONOMY 5.149, 5.563A"
+        }
+    },
+    {
+        "range": "275-3000",
+        "unit": "MHz",
+        "allocations": {
+            "Region 1": "(Not allocated) 5.564A, 5.565",
+            "Region 2": "(Not allocated) 5.564A, 5.565",
+            "Region 3": "(Not allocated) 5.564A, 5.565",
+            "India": "(Not allocated) 5.564A 5.565"
+        }
+    }
+]
+

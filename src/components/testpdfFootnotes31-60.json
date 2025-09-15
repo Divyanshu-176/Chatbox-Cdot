@@ -1,0 +1,1643 @@
+[
+    {
+        "footnote_number": "5.64",
+        "text": "Only classes A1A or F1B, A2C, A3C, F1C or F3C emissions are authorized for stations of the fixed service in the bands allocated to this service between 90 kHz and 160 kHz (148.5 kHz in Region 1) and for stations of the maritime mobile service in the bands allocated to this service between 110 kHz and 160 kHz (148.5 kHz in Region 1). Exceptionally, class J2B or J7B emissions are also authorized in the bands between 110 kHz and 160 kHz (148.5 kHz in Region 1) for stations of the maritime mobile service."
+    },
+    {
+        "footnote_number": "5.65",
+        "text": "Different category of service: in Bangladesh, the allocation of the bands 112-117.6 kHz and 126-129 kHz to the fixed and maritime mobile services is on a primary basis (see No. 5.33). (WRC-2000)"
+    },
+    {
+        "footnote_number": "5.66",
+        "text": "Different category of service: in Germany, the allocation of the band 115-117.6 kHz to the fixed and maritime mobile services is on a primary basis (see No. 5.33) and to the radionavigation service on a secondary basis (see No. 5.32)."
+    },
+    {
+        "footnote_number": "5.67",
+        "text": "Additional allocation: in Kyrgyzstan and Turkmenistan, the frequency band 130-148.5 kHz is also allocated to the radionavigation service on a secondary basis. Within and between these countries this service shall have an equal right to operate. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.67A",
+        "text": "Stations in the amateur service using frequencies in the band 135.7-137.8 kHz shall not exceed a maximum radiated power of 1 W (e.i.r.p.) and shall not cause harmful interference to stations of the radionavigation service operating in countries listed in No. 5.67. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.67B",
+        "text": "The use of the frequency band 135.7-137.8 kHz in Algeria, Egypt, Iraq, Lebanon, Syrian Arab Republic, Sudan, South Sudan and Tunisia is limited to the fixed and maritime mobile services. The amateur service shall not be used in the above-mentioned countries in the frequency band 135.7-137.8 kHz, and this should be taken into account by the countries authorizing such use. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.68",
+        "text": "Alternative allocation: in Congo (Rep. of the), the Dem. Rep. of the Congo and South Africa, the frequency band 160-200 kHz is allocated to the fixed service on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.69",
+        "text": "Additional allocation: in Somalia, the band 200-255 kHz is also allocated to the aeronautical radionavigation service on a primary basis."
+    },
+    {
+        "footnote_number": "5.70",
+        "text": "Alternative allocation: in Angola, Botswana, Burundi, the Central African Rep., Congo (Rep. of the), Eswatini, Ethiopia, Kenya, Lesotho, Madagascar, Malawi, Mozambique, Namibia, Nigeria, Oman, the Dem. Rep. of the Congo, South Africa, Tanzania, Chad, Zambia and Zimbabwe, the frequency band 200-283.5 kHz is allocated to the aeronautical radionavigation service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.71",
+        "text": "(SUP - WRC-19)"
+    },
+    {
+        "footnote_number": "5.72",
+        "text": "(SUP - WRC-12)"
+    },
+    {
+        "footnote_number": "5.73",
+        "text": "The band 285-325 kHz (283.5-325 kHz in Region 1) in the maritime radionavigation service may be used to transmit supplementary navigational information using narrow-band techniques, on condition that no harmful interference is caused to radiobeacon stations operating in the radionavigation service. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.74",
+        "text": "Additional Allocation: in Region 1, the frequency band 285.3-285.7 kHz is also allocated to the maritime radionavigation service (other than radiobeacons) on a primary basis."
+    },
+    {
+        "footnote_number": "5.75",
+        "text": "Different category of service: in Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Moldova, Kyrgyzstan, Tajikistan, Turkmenistan, Ukraine and the Black Sea areas of Romania, the allocation of the band 315-325 kHz to the maritime radionavigation service is on a primary basis under the condition that in the Baltic Sea area, the assignment of frequencies in this band to new stations in the maritime or aeronautical radionavigation services shall be subject to prior consultation between the administrations concerned. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.76",
+        "text": "The frequency 410 kHz is designated for radio direction-finding in the maritime radionavigation service. The other radionavigation services to which the band 405-415 kHz is allocated shall not cause harmful interference to radio direction-finding in the band 406.5-413.5 kHz."
+    },
+    {
+        "footnote_number": "5.77",
+        "text": "Different category of service: in Australia, China, the French overseas communities of Region 3, Korea (Rep. of), India, Iran (Islamic Republic of), Japan, Pakistan, Papua New Guinea, the Dem. People’s Rep. of Korea and Sri Lanka, the allocation of the frequency band 415-495 kHz to the aeronautical radionavigation service is on a primary basis. In Armenia, Azerbaijan, Belarus, the Russian Federation, Kazakhstan, Latvia, Uzbekistan and Kyrgyzstan, the allocation of the frequency band 435-495 kHz to the aeronautical radionavigation service is on a primary basis. Administrations in all the aforementioned countries shall take all practical steps necessary to ensure that aeronautical radionavigation stations in the frequency band 435-495 kHz do not cause interference to reception by coast stations of transmissions from ship stations on frequencies designated for ship stations on a worldwide basis. (WRC-19)."
+    },
+    {
+        "footnote_number": "5.78",
+        "text": "Different category of service: in Cuba, the United States of America and Mexico, the allocation of the band 415-435 kHz to the aeronautical radionavigation service is on a primary basis."
+    },
+    {
+        "footnote_number": "5.79",
+        "text": "In the maritime mobile service, the frequency bands 415-495 kHz and 505-526.5 kHz are limited to radiotelegraphy and may also be used for the NAVDAT system in accordance with the most recent version of Recommendation ITU-R M.2010, subject to agreement between interested and affected administrations. NAVDAT transmitting stations are limited to coast stations. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.79A",
+        "text": "When establishing coast stations in the NAVTEX service on the frequencies 490 kHz, 518 kHz and 4209.5 kHz, administrations are strongly recommended to coordinate the operating characteristics in accordance with the procedures of the International Maritime Organization (IMO) (see Resolution 339 (Rev.WRC-07)). (WRC-07)"
+    },
+    {
+        "footnote_number": "5.80",
+        "text": "In Region 2, the use of the band 435-495 kHz by the aeronautical radionavigation service is limited to non-directional beacons not employing voice transmission."
+    },
+    {
+        "footnote_number": "5.80A",
+        "text": "The maximum equivalent isotropically radiated power (e.i.r.p.) of stations in the amateur service using frequencies in the band 472-479 kHz shall not exceed 1 W. Administrations may increase this limit of e.i.r.p. to 5 W in portions of their territory which are at a distance of over 800 km from the borders of several listed countries. In this frequency band, stations in the amateur service shall not cause harmful interference to, or claim protection from, stations of the aeronautical radionavigation service. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.80B",
+        "text": "The use of the frequency band 472-479 kHz in several listed countries is limited to the maritime mobile and aeronautical radionavigation services. The amateur service shall not be used in these countries in this frequency band, and this should be taken into account by the countries authorizing such use. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.81",
+        "text": "(SUP -WRC-2000)"
+    },
+    {
+        "footnote_number": "5.82",
+        "text": "In the maritime mobile service, the frequency 490 kHz is to be used exclusively for the transmission by coast stations of navigational and meteorological warnings and urgent information to ships, by means of narrow-band direct-printing telegraphy. Administrations shall ensure no harmful interference to the frequency 490 kHz from other services using 415-495 kHz or 472-479 kHz. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.82A",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.82B",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.82C",
+        "text": "The frequency band 495-505 kHz is used for the international NAVDAT system as described in the most recent version of Recommendation ITU-R M.2010. NAVDAT transmitting stations are limited to coast stations. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.83",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.84",
+        "text": "The conditions for the use of the frequency 518 kHz by the maritime mobile service are prescribed in Articles 31 and 52. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.85",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.86",
+        "text": "In Region 2, in the band 525-535 kHz the carrier power of broadcasting stations shall not exceed 1 kW during the day and 250 W at night."
+    },
+    {
+        "footnote_number": "5.87",
+        "text": "Additional allocation: in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia and Niger, the frequency band 526.5-535 kHz is also allocated to the mobile service on a secondary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.87A",
+        "text": "Additional allocation: in Uzbekistan, the band 526.5-1606.5 kHz is also allocated to the radionavigation service on a primary basis, subject to agreement obtained under No. 9.21, and limited to ground-based radiobeacons in operation on 27 October 1997 until the end of their lifetime. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.88",
+        "text": "Additional allocation: in China, the band 526.5-535 kHz is also allocated to the aeronautical radionavigation service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.89",
+        "text": "In Region 2, the use of the band 1605-1705 kHz by stations of the broadcasting service is subject to the Plan established by the Regional Administrative Radio Conference (Rio de Janeiro, 1988)."
+    },
+    {
+        "footnote_number": "5.90",
+        "text": "In the band 1605-1705 kHz, in cases where a broadcasting station of Region 2 is concerned, the service area of the maritime mobile stations in Region 1 shall be limited to that provided by ground-wave propagation."
+    },
+    {
+        "footnote_number": "5.91",
+        "text": "Additional allocation: in the Philippines and Sri Lanka, the band 1606.5-1705 kHz is also allocated to the broadcasting service on a secondary basis. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.92",
+        "text": "Some countries of Region 1 use radiodetermination systems in several frequency bands, subject to agreement obtained under No. 9.21. The radiated mean power of these stations shall not exceed 50 W."
+    },
+    {
+        "footnote_number": "5.93",
+        "text": "Additional allocation: in listed countries, the frequency bands 1625-1635 kHz, 1800-1810 kHz and 2160-2170 kHz are also allocated to the fixed and land mobile services on a primary basis, subject to agreement obtained under No. 9.21. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.94",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.95",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.96",
+        "text": "In many European and Asian countries, administrations may allocate up to 200 kHz to their amateur service in the bands 1715-1800 kHz and 1850-2000 kHz. Mean power of amateur stations shall not exceed 10 W and coordination with neighboring countries is required to avoid harmful interference. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.97",
+        "text": "In Region 3, the Loran system operates on either 1850 kHz or 1950 kHz, occupying bands 1825-1875 kHz and 1925-1975 kHz respectively. Other services in the 1800-2000 kHz band may use frequencies only if no harmful interference is caused to Loran."
+    },
+    {
+        "footnote_number": "5.98",
+        "text": "Alternative allocation: in many countries, the frequency band 1810-1830 kHz is allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.99",
+        "text": "Additional allocation: in several countries, the band 1810-1830 kHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.100",
+        "text": "In Region 1, the authorization to use the band 1810-1830 kHz by the amateur service in countries north of 40° N shall be given only after consultation with countries mentioned in Nos. 5.98 and 5.99 to define steps to prevent harmful interference."
+    },
+    {
+        "footnote_number": "5.101",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.102",
+        "text": "Alternative allocation: in Bolivia, Chile, Paraguay and Peru, the frequency band 1850-2000 kHz is allocated to the fixed, mobile except aeronautical mobile, radiolocation and radionavigation services on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.103",
+        "text": "In Region 1, in making assignments to stations in the fixed and mobile services in the bands 1 850-2 045 kHz, 2 194-2 498 kHz, 2 502-2 625 kHz and 2 650-2 850 kHz, administrations should bear in mind the special requirements of the maritime mobile service."
+    },
+    {
+        "footnote_number": "5.104",
+        "text": "In Region 1, the use of the band 2 025-2 045 kHz by the meteorological aids service is limited to oceanographic buoy stations."
+    },
+    {
+        "footnote_number": "5.105",
+        "text": "In Region 2, except in Greenland, coast stations and ship stations using radiotelephony in the band 2 065-2 107 kHz shall be limited to class J3E emissions and to a peak envelope power not exceeding 1 kW. Preferably, the following carrier frequencies should be used: 2 065.0 kHz, 2 079.0 kHz, 2 082.5 kHz, 2 086.0 kHz, 2 093.0 kHz, 2 096.5 kHz, 2 100.0 kHz and 2 103.5 kHz. In Argentina and Uruguay, the carrier frequencies 2 068.5 kHz and 2 075.5 kHz are also used for this purpose, while the frequencies within the band 2 072-2 075.5 kHz are used as provided in No. 52.165."
+    },
+    {
+        "footnote_number": "5.106",
+        "text": "In Regions 2 and 3, provided no harmful interference is caused to the maritime mobile service, the frequencies between 2 065 kHz and 2 107 kHz may be used by stations of the fixed service communicating only within national borders and whose mean power does not exceed 50 W. In notifying the frequencies, the attention of the Bureau should be drawn to these provisions."
+    },
+    {
+        "footnote_number": "5.107",
+        "text": "Additional allocation: in Saudi Arabia, Eritrea, Eswatini, Ethiopia, Iraq, Libya and Somalia, the frequency band 2 160-2 170 kHz is also allocated to the fixed and mobile, except aeronautical mobile (R), services on a primary basis. The mean power of stations in these services shall not exceed 50 W. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.108",
+        "text": "The carrier frequency 2 182 kHz is an international distress and calling frequency for radiotelephony. The conditions for the use of the band 2 173.5-2 190.5 kHz are prescribed in Articles 31 and 52. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.109",
+        "text": "The frequencies 2 187.5 kHz, 4 207.5 kHz, 6 312 kHz, 8 414.5 kHz, 12 577 kHz and 16 804.5 kHz are international distress frequencies for digital selective calling. The conditions for the use of these frequencies are prescribed in Article 31."
+    },
+    {
+        "footnote_number": "5.110",
+        "text": "The frequencies 2 174.5 kHz, 4 177.5 kHz, 6 268 kHz, 8 376.5 kHz, 12 520 kHz and 16 695 kHz are international distress frequencies for narrow-band direct-printing telegraphy. The conditions for the use of these frequencies are prescribed in Article 31."
+    },
+    {
+        "footnote_number": "5.111",
+        "text": "The carrier frequencies 2 182 kHz, 3 023 kHz, 5 680 kHz, 8 364 kHz and the frequencies 121.5 MHz, 156.525 MHz, 156.8 MHz and 243 MHz may also be used, in accordance with the procedures in force for terrestrial radiocommunication services, for search and rescue operations concerning manned space vehicles. The conditions for the use of the frequencies are prescribed in Article 31. The same applies to the frequencies 10 003 kHz, 14 993 kHz and 19 993 kHz, but in each of these cases emissions must be confined in a band of ± 3 kHz about the frequency. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.112",
+        "text": "Alternative allocation: in Sri Lanka, the frequency band 2 194-2 300 kHz is allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.113",
+        "text": "For the conditions for the use of the bands 2 300-2 495 kHz (2 498 kHz in Region 1), 3 200-3 400 kHz, 4 750-4 995 kHz and 5 005-5 060 kHz by the broadcasting service, see Nos. 5.16 to 5.20, 5.21 and 23.3 to 23.10."
+    },
+    {
+        "footnote_number": "5.114",
+        "text": "Alternative allocation: in Iraq, the frequency band 2 502-2 625 kHz is allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.115",
+        "text": "The carrier (reference) frequencies 3 023 kHz and 5 680 kHz may also be used, in accordance with Article 31, by stations of the maritime mobile service engaged in coordinated search and rescue operations. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.116",
+        "text": "Administrations are urged to authorize the use of the band 3 155-3 195 kHz to provide a common worldwide channel for low power wireless hearing aids. Additional channels for these devices may be assigned by administrations in the bands between 3 155 kHz and 3 400 kHz to suit local needs. It should be noted that frequencies in the range 3 000 kHz to 4 000 kHz are suitable for hearing aid devices which are designed to operate over short distances within the induction field."
+    },
+    {
+        "footnote_number": "5.117",
+        "text": "Alternative allocation: in Côte d'Ivoire, Egypt, Liberia, Sri Lanka and Togo, the frequency band 3 155-3 200 kHz is allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.118",
+        "text": "Additional allocation: in the United States, Mexico and Peru, the frequency band 3 230-3 400 kHz is also allocated to the radiolocation service on a secondary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.119",
+        "text": "Additional allocation: in Peru, the frequency band 3 500-3 750 kHz is also allocated to the fixed and mobile services on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.120",
+        "text": "(SUP -WRC-2000)"
+    },
+    {
+        "footnote_number": "5.121",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.122",
+        "text": "Alternative allocation: in Bolivia, Chile, Ecuador, Paraguay and Peru, the frequency band 3 750-4 000 kHz is allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.123",
+        "text": "Additional allocation: in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe, the frequency band 3 900-3 950 kHz is also allocated to the broadcasting service on a primary basis, subject to agreement obtained under No. 9.21. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.124",
+        "text": "(SUP -WRC-2000)"
+    },
+    {
+        "footnote_number": "5.125",
+        "text": "Additional allocation: in Greenland, the band 3 950-4 000 kHz is also allocated to the broadcasting service on a primary basis. The power of the broadcasting stations operating in this band shall not exceed that necessary for a national service and shall in no case exceed 5 kW."
+    },
+    {
+        "footnote_number": "5.126",
+        "text": "In Region 3, the stations of those services to which the band 3 995-4 005 kHz is allocated may transmit standard frequency and time signals."
+    },
+    {
+        "footnote_number": "5.127",
+        "text": "The use of the band 4 000-4 063 kHz by the maritime mobile service is limited to ship stations using radiotelephony (see No. 52.220 and Appendix 17)."
+    },
+    {
+        "footnote_number": "5.128",
+        "text": "Frequencies in the frequency bands 4 063-4 123 kHz and 4 130-4 438 kHz may be used exceptionally by stations in the fixed service, communicating only within the boundary of the country in which they are located, with a mean power not exceeding 50 W, on condition that harmful interference is not caused to the maritime mobile service. In addition, in Afghanistan, Argentina, Armenia, Belarus, Botswana, Burkina Faso, the Central African Rep., China, the Russian Federation, Georgia, India, Kazakhstan, Mali, Niger, Pakistan, Kyrgyzstan, Tajikistan, Chad, Turkmenistan and Ukraine, in the frequency bands 4 063-4 123 kHz, 4 130-4 133 kHz and 4 408-4 438 kHz, stations in the fixed service, with a mean power not exceeding 1 kW, can be operated on condition that they are situated at least 600 km from the coast and that harmful interference is not caused to the maritime mobile service. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.129",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.130",
+        "text": "The conditions for the use of the carrier frequencies 4 125 kHz and 6 215 kHz are prescribed in Articles 31 and 52. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.131",
+        "text": "The frequency 4 209.5 kHz is used exclusively for the transmission by coast stations of meteorological and navigational warnings and urgent information to ships by means of narrow-band direct-printing techniques. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.132",
+        "text": "The frequencies 4 210 kHz, 6 314 kHz, 8 416.5 kHz, 12 579 kHz, 16 806.5 kHz, 19 680.5 kHz, 22 376 kHz and 26 100.5 kHz are the international frequencies for the transmission of maritime safety information (MSI) (see Appendix 17)."
+    },
+    {
+        "footnote_number": "5.132A",
+        "text": "Stations in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the fixed or mobile services. Applications of the radiolocation service are limited to oceanographic radars operating in accordance with Resolution 612 (Rev.WRC-12). (WRC-12)"
+    },
+    {
+        "footnote_number": "5.132B",
+        "text": "Alternative allocation: in Armenia, Belarus, Moldova and Kyrgyzstan, the frequency band 4 438-4 488 kHz is allocated to the fixed and mobile, except aeronautical mobile (R), services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.133",
+        "text": "Different category of service: in Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Latvia, Lithuania, Niger, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the allocation of the band 5 130-5 250 kHz to the mobile, except aeronautical mobile, service is on a primary basis (see No. 5.33). (WRC-12)"
+    },
+    {
+        "footnote_number": "5.133A",
+        "text": "Alternative allocation: in Armenia, Belarus, Moldova and Kyrgyzstan, the frequency bands 5 250-5 275 kHz and 26 200-26 350 kHz are allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.133B",
+        "text": "Stations in the amateur service using the frequency band 5 351.5-5 366.5 kHz shall not exceed a maximum radiated power of 15 W (e.i.r.p.). However, in Region 2 in Mexico, stations in the amateur service using the frequency band 5 351.5-5 366.5 kHz shall not exceed a maximum radiated power of 20 W (e.i.r.p.). In the following Region 2 countries: Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Dominica, El Salvador, Ecuador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Nicaragua, Panama, Paraguay, Peru, Saint Lucia, Saint Kitts and Nevis, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Uruguay, Venezuela, as well as the overseas countries and territories within the Kingdom of the Netherlands in Region 2, stations in the amateur service using the frequency band 5 351.5-5 366.5 kHz shall not exceed a maximum radiated power of 25 W (e.i.r.p.). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.134",
+        "text": "The use of the frequency bands 5 900-5 950 kHz, 7 300-7 350 kHz, 9 400-9 500 kHz, 11 600-11 650 kHz, 12 050-12 100 kHz, 13 570-13 600 kHz, 13 800-13 870 kHz, 15 600-15 800 kHz, 17 480-17 550 kHz and 18 900-19 020 kHz by the broadcasting service is subject to the application of the procedure of Article 12. Administrations are encouraged to use these frequency bands to facilitate the introduction of digitally modulated emissions in accordance with the provisions of Resolution 517 (Rev.WRC-19). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.135",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.136",
+        "text": "Additional allocation: frequencies in the band 5 900-5 950 kHz may be used by stations in the following services, communicating only within the boundary of the country in which they are located: fixed service (in all three Regions), land mobile service (in Region 1), mobile except aeronautical mobile (R) service (in Regions 2 and 3), on condition that harmful interference is not caused to the broadcasting service. When using frequencies for these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.137",
+        "text": "On condition that harmful interference is not caused to the maritime mobile service, the bands 6 200-6 213.5 kHz and 6 220.5-6 525 kHz may be used exceptionally by stations in the fixed service, communicating only within the boundary of the country in which they are located, with a mean power not exceeding 50 W. At the time of notification of these frequencies, the attention of the Bureau will be drawn to the above conditions."
+    },
+    {
+        "footnote_number": "5.138",
+        "text": "The following bands: 6 765-6 795 kHz (centre frequency 6 780 kHz), 433.05-434.79 MHz (centre frequency 433.92 MHz) in Region 1 except in the countries mentioned in No. 5.280, 61-61.5 GHz (centre frequency 61.25 GHz), 122-123 GHz (centre frequency 122.5 GHz), and 244-246 GHz (centre frequency 245 GHz) are designated for industrial, scientific and medical (ISM) applications. The use of these frequency bands for ISM applications shall be subject to special authorization by the administration concerned, in agreement with other administrations whose radiocommunication services might be affected. In applying this provision, administrations shall have due regard to the latest relevant ITU-R Recommendations."
+    },
+    {
+        "footnote_number": "5.138A",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.139",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.140",
+        "text": "Additional allocation: in Angola, Iraq, Somalia and Togo, the frequency band 7 000-7 050 kHz is also allocated to the fixed service on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.141",
+        "text": "Alternative allocation: in Egypt, Eritrea, Ethiopia, Guinea, Libya, Madagascar and Niger, the band 7 000-7 050 kHz is allocated to the fixed service on a primary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.141A",
+        "text": "Additional allocation: in Uzbekistan and Kyrgyzstan, the bands 7 000-7 100 kHz and 7 100-7 200 kHz are also allocated to the fixed and land mobile services on a secondary basis. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.141B",
+        "text": "Additional allocation: in Algeria, Saudi Arabia, Australia, Bahrain, Botswana, Brunei Darussalam, China, Comoros, Korea (Rep. of), Diego Garcia, Djibouti, Egypt, United Arab Emirates, Eritrea, Guinea, Indonesia, Iran (Islamic Republic of), Japan, Jordan, Kuwait, Libya, Mali, Morocco, Mauritania, Niger, New Zealand, Oman, Papua New Guinea, Qatar, the Syrian Arab Republic, the Dem. People’s Rep. of Korea, Singapore, Sudan, South Sudan, Tunisia, Viet Nam and Yemen, the frequency band 7 100-7 200 kHz is also allocated to the fixed and the mobile, except aeronautical mobile (R), services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.141C",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.142",
+        "text": "The use of the band 7 200-7 300 kHz in Region 2 by the amateur service shall not impose constraints on the broadcasting service intended for use within Region 1 and Region 3. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.143",
+        "text": "Additional allocation: frequencies in the band 7 300-7 350 kHz may be used by stations in the fixed service and in the land mobile service, communicating only within the boundary of the country in which they are located, on condition that harmful interference is not caused to the broadcasting service. When using frequencies for these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.143A",
+        "text": "In Region 3, frequencies in the band 7 350-7 450 kHz may be used by stations in the fixed service on a primary basis and land mobile service on a secondary basis, communicating only within the boundary of the country in which they are located, on condition that harmful interference is not caused to the broadcasting service. When using frequencies for these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.143B",
+        "text": "In Region 1, frequencies in the band 7 350-7 450 kHz may be used by stations in the fixed and land mobile services communicating only within the boundary of the country in which they are located on condition that harmful interference is not caused to the broadcasting service. The total radiated power of each station shall not exceed 24 dBW. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.143C",
+        "text": "Additional allocation: in Algeria, Saudi Arabia, Bahrain, Comoros, Djibouti, Egypt, United Arab Emirates, Iran (Islamic Republic of), Jordan, Kuwait, Libya, Morocco, Mauritania, Niger, Oman, Qatar, the Syrian Arab Republic, Sudan, South Sudan, Tunisia and Yemen, the bands 7 350-7 400 kHz and 7 400-7 450 kHz are also allocated to the fixed service on a primary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.143D",
+        "text": "In Region 2, frequencies in the band 7 350-7 400 kHz may be used by stations in the fixed service and in the land mobile service, communicating only within the boundary of the country in which they are located, on condition that harmful interference is not caused to the broadcasting service. When using frequencies for these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.143E",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.144",
+        "text": "In Region 3, the stations of those services to which the band 7 995-8 005 kHz is allocated may transmit standard frequency and time signals."
+    },
+    {
+        "footnote_number": "5.145",
+        "text": "The conditions for the use of the carrier frequencies 8 291 kHz, 12 290 kHz and 16 420 kHz are prescribed in Articles 31 and 52. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.145A",
+        "text": "Stations in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the fixed service. Applications of the radiolocation service are limited to oceanographic radars operating in accordance with Resolution 612 (Rev.WRC-12). (WRC-12)"
+    },
+    {
+        "footnote_number": "5.145B",
+        "text": "Alternative allocation: in Armenia, Belarus, Moldova and Kyrgyzstan, the frequency bands 9 305-9 355 kHz and 16 100-16 200 kHz are allocated to the fixed service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.146",
+        "text": "Additional allocation: frequencies in the bands 9 400-9 500 kHz, 11 600-11 650 kHz, 12 050-12 100 kHz, 15 600-15 800 kHz, 17 480-17 550 kHz and 18 900-19 020 kHz may be used by stations in the fixed service, communicating only within the boundary of the country in which they are located, on condition that harmful interference is not caused to the broadcasting service. When using frequencies in the fixed service, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.147",
+        "text": "On condition that harmful interference is not caused to the broadcasting service, frequencies in the bands 9 775-9 900 kHz, 11 650-11 700 kHz and 11 975-12 050 kHz may be used by stations in the fixed service communicating only within the boundary of the country in which they are located, each station using a total radiated power not exceeding 24 dBW."
+    },
+    {
+        "footnote_number": "5.148",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.149",
+        "text": "In making assignments to stations of other services to which the bands: 13 360-13 410 kHz, 4 950-4 990 MHz, 102-109.5 GHz, 25 550-25 670 kHz, 4 990-5 000 MHz, 111.8-114.25 GHz, 37.5-38.25 MHz, 6 650-6 675.2 MHz, 128.33-128.59 GHz, 73-74.6 MHz in Regions 1 and 3, 10.6-10.68 GHz, 129.23-129.49 GHz, 150.05-153 MHz in Region 1, 14.47-14.5 GHz, 130-134 GHz, 322-328.6 MHz, 22.01-22.21 GHz, 136-148.5 GHz, 406.1-410 MHz, 22.21-22.5 GHz, 151.5-158.5 GHz, 608-614 MHz in Regions 1 and 3, 22.81-22.86 GHz, 168.59-168.93 GHz, 1 330-1 400 MHz, 23.07-23.12 GHz, 171.11-171.45 GHz, 1 610.6-1 613.8 MHz, 31.2-31.3 GHz, 172.31-172.65 GHz, 1 660-1 670 MHz, 31.5-31.8 GHz in Regions 1 and 3, 173.52-173.85 GHz, 1 718.8-1 722.2 MHz, 36.43-36.5 GHz, 195.75-196.15 GHz, 2 655-2 690 MHz, 42.5-43.5 GHz, 209-226 GHz, 3 260-3 267 MHz, 48.94-49.04 GHz, 241-250 GHz, 3 332-3 339 MHz, 76-86 GHz, 252-275 GHz, 3 345.8-3 352.5 MHz, 92-94 GHz, 4 825-4 835 MHz, 94.1-100 GHz, are allocated, administrations are urged to take all practicable steps to protect the radio astronomy service from harmful interference. Emissions from spaceborne or airborne stations can be particularly serious sources of interference to the radio astronomy service (see Nos. 4.5 and 4.6 and Article 29). (WRC-07)"
+    },
+    {
+        "footnote_number": "5.149A",
+        "text": "Alternative allocation: in Armenia, Belarus, Moldova and Kyrgyzstan, the frequency band 13 450-13 550 kHz is allocated to the fixed service on a primary basis and to the mobile, except aeronautical mobile (R), service on a secondary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.150",
+        "text": "The following bands: 13 553-13 567 kHz (centre frequency 13 560 kHz), 26 957-27 283 kHz (centre frequency 27 120 kHz), 40.66-40.70 MHz (centre frequency 40.68 MHz), 902-928 MHz in Region 2 (centre frequency 915 MHz), 2 400-2 500 MHz (centre frequency 2 450 MHz), 5 725-5 875 MHz (centre frequency 5 800 MHz), and 24-24.25 GHz (centre frequency 24.125 GHz) are also designated for industrial, scientific and medical (ISM) applications. Radiocommunication services operating within these bands must accept harmful interference which may be caused by these applications. ISM equipment operating in these bands is subject to the provisions of No. 15.13."
+    },
+    {
+        "footnote_number": "5.151",
+        "text": "Additional allocation: frequencies in the bands 13 570-13 600 kHz and 13 800-13 870 kHz may be used by stations in the fixed service and in the mobile except aeronautical mobile (R) service, communicating only within the boundary of the country in which they are located, on the condition that harmful interference is not caused to the broadcasting service. When using frequencies in these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.152",
+        "text": "Additional allocation: in Armenia, Azerbaijan, China, Côte d’Ivoire, the Russian Federation, Georgia, Iran (Islamic Republic of), Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the band 14 250-14 350 kHz is also allocated to the fixed service on a primary basis. Stations of the fixed service shall not use a radiated power exceeding 24 dBW. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.153",
+        "text": "In Region 3, the stations of those services to which the band 15 995-16 005 kHz is allocated may transmit standard frequency and time signals."
+    },
+    {
+        "footnote_number": "5.154",
+        "text": "Additional allocation: in Armenia, Azerbaijan, the Russian Federation, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the band 18 068-18 168 kHz is also allocated to the fixed service on a primary basis for use within their boundaries, with a peak envelope power not exceeding 1 kW. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.155",
+        "text": "Additional allocation: in Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Moldova, Mongolia, Uzbekistan, Kyrgyzstan, Slovakia, Tajikistan, Turkmenistan and Ukraine, the band 21 850-21 870 kHz is also allocated to the aeronautical mobile (R) service on a primary basis. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.155A",
+        "text": "In Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Moldova, Mongolia, Uzbekistan, Kyrgyzstan, Slovakia, Tajikistan, Turkmenistan and Ukraine, the use of the band 21 850-21 870 kHz by the fixed service is limited to provision of services related to aircraft flight safety. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.155B",
+        "text": "The band 21 870-21 924 kHz is used by the fixed service for provision of services related to aircraft flight safety."
+    },
+    {
+        "footnote_number": "5.156",
+        "text": "Additional allocation: in Nigeria, the band 22 720-23 200 kHz is also allocated to the meteorological aids service (radiosondes) on a primary basis."
+    },
+    {
+        "footnote_number": "5.156A",
+        "text": "The use of the band 23 200-23 350 kHz by the fixed service is limited to provision of services related to aircraft flight safety."
+    },
+    {
+        "footnote_number": "5.157",
+        "text": "The use of the band 23 350-24 000 kHz by the maritime mobile service is limited to inter-ship radiotelegraphy."
+    },
+    {
+        "footnote_number": "5.158",
+        "text": "Alternative allocation: in Armenia, Belarus, Moldova and Kyrgyzstan, the frequency band 24 450-24 600 kHz is allocated to the fixed and land mobile services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.159",
+        "text": "Alternative allocation: in Armenia, Belarus, Moldova and Kyrgyzstan, the frequency band 39-39.5 MHz is allocated to the fixed and mobile services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.160",
+        "text": "Additional allocation: in Botswana, Burundi, Dem. Rep. of the Congo and Rwanda, the band 41-44 MHz is also allocated to the aeronautical radionavigation service on a primary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.161",
+        "text": "Additional allocation: in Iran (Islamic Republic of) and Japan, the band 41-44 MHz is also allocated to the radiolocation service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.161A",
+        "text": "Additional allocation: in Korea (Rep. of), the United States and Mexico, the frequency bands 41.015-41.665 MHz and 43.35-44 MHz are also allocated to the radiolocation service on a primary basis. Stations in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the fixed or mobile services. Applications of the radiolocation service are limited to oceanographic radars operating in accordance with Resolution 612 (Rev.WRC-12). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.161B",
+        "text": "Alternative allocation: in Albania, Germany, Armenia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Cyprus, Vatican, Croatia, Denmark, Spain, Estonia, Finland, France, Greece, Hungary, Ireland, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, North Macedonia, Malta, Moldova, Monaco, Montenegro, Norway, Uzbekistan, Netherlands, Portugal, Kyrgyzstan, Slovakia, Czech Rep., Romania, United Kingdom, San Marino, Slovenia, Sweden, Switzerland, Turkey and Ukraine, the frequency band 42-42.5 MHz is allocated to the fixed and mobile services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.162",
+        "text": "Additional allocation: in Australia, the band 44-47 MHz is also allocated to the broadcasting service on a primary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.162A",
+        "text": "Additional allocation: in Germany, Austria, Belgium, Bosnia and Herzegovina, China, Vatican, Denmark, Spain, Estonia, the Russian Federation, Finland, France, Ireland, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, North Macedonia, Monaco, Montenegro, Norway, the Netherlands, Poland, Portugal, the Czech Rep., the United Kingdom, Serbia, Slovenia, Sweden and Switzerland the frequency band 46-68 MHz is also allocated to the radiolocation service on a secondary basis. This use is limited to the operation of wind profiler radars in accordance with Resolution 217 (WRC-97). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.163",
+        "text": "Additional allocation: in Armenia, Belarus, the Russian Federation, Georgia, Kazakhstan, Latvia, Moldova, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the frequency bands 47-48.5 MHz and 56.5-58 MHz are also allocated to the fixed and land mobile services on a secondary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.164",
+        "text": "Additional allocation: in Albania, Algeria, Germany, Austria, Belgium, Bosnia and Herzegovina, Botswana, Bulgaria, Côte d'Ivoire, Croatia, Denmark, Spain, Estonia, Eswatini, Finland, France, Gabon, Greece, Hungary, Ireland, Israel, Italy, Jordan, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Mali, Malta, Morocco, Mauritania, Monaco, Montenegro, Nigeria, Norway, the Netherlands, Poland, Syrian Arab Republic, Slovakia, Czech Rep., Romania, the United Kingdom, Serbia, Slovenia, Sweden, Switzerland, Chad, Togo, Tunisia and Turkey, the frequency band 47-68 MHz, in South Africa the frequency band 47-50 MHz, and in Latvia the frequency bands 48.5-56.5 MHz and 58-68 MHz, are also allocated to the land mobile service on a primary basis. However, stations of the land mobile service in the countries mentioned in connection with each frequency band referred to in this footnote shall not cause harmful interference to, or claim protection from, existing or planned broadcasting stations of countries other than those mentioned in connection with the frequency band. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.165",
+        "text": "Additional allocation: in Angola, Cameroon, Congo (Rep. of the), Egypt, Madagascar, Mozambique, Niger, Somalia, Sudan, South Sudan, Tanzania and Chad, the frequency band 47-68 MHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.166",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.166A",
+        "text": "Different category of service: in Austria, Cyprus, the Vatican, Croatia, Denmark, Spain, Finland, Hungary, Latvia, the Netherlands, the Czech Republic, the United Kingdom, Slovakia and Slovenia, the frequency band 50.0-50.5 MHz is allocated to the amateur service on a primary basis. Stations in the amateur service in these countries shall not cause harmful interference to, or claim protection from, stations of the broadcasting, fixed and mobile services operating in accordance with the Radio Regulations in the frequency band 50.0-50.5 MHz in the countries not listed in this provision. For a station of these services, the protection criteria in No. 5.169B shall also apply. In Region 1, with the exception of those countries listed in No. 5.169, wind profiler radars operating in the radiolocation service under No. 5.162A are authorized to operate on the basis of equality with stations in the amateur service in the frequency band 50.0-50.5 MHz. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.166B",
+        "text": "In Region 1, stations in the amateur service operating on a secondary basis shall not cause harmful interference to, or claim protection from, stations of the broadcasting service. The field strength generated by an amateur station in Region 1 in the frequency band 50-52 MHz shall not exceed a calculated value of +6 dB(μV/m) at a height of 10 m above ground for more than 10% of time along the border of a country with operational analogue broadcasting stations in Region 1 and of neighbouring countries with broadcasting stations in Region 3 listed in Nos. 5.167 and 5.168. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.166C",
+        "text": "In Region 1, stations in the amateur service in the frequency band 50-52 MHz, with the exception of those countries listed in No. 5.169, shall not cause harmful interference to, or claim protection from, wind profiler radars operating in the radiolocation service under No. 5.162A. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.166D",
+        "text": "Different category of service: in Lebanon, the frequency band 50-52 MHz is allocated to the amateur service on a primary basis. Stations in the amateur service in Lebanon shall not cause harmful interference to, or claim protection from, stations of the broadcasting, fixed and mobile services operating in accordance with the Radio Regulations in the frequency band 50-52 MHz in the countries not listed in this provision. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.166E",
+        "text": "In the Russian Federation, only the frequency band 50.080-50.280 MHz is allocated to the amateur service on a secondary basis. The protection criteria for the other services in the countries not listed in this provision are specified in Nos. 5.166B and 5.169B. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.167",
+        "text": "Alternative allocation: in Bangladesh, Brunei Darussalam, India, Iran (Islamic Republic of), Pakistan and Singapore, the frequency band 50-54 MHz is allocated to the fixed, mobile and broadcasting services on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.167A",
+        "text": "Additional allocation: in Indonesia and Thailand, the frequency band 50-54 MHz is also allocated to the fixed, mobile and broadcasting services on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.168",
+        "text": "Additional allocation: in Australia, China and the Dem. People’s Rep. of Korea, the band 50-54 MHz is also allocated to the broadcasting service on a primary basis."
+    },
+    {
+        "footnote_number": "5.169",
+        "text": "Alternative allocation: in Botswana, Eswatini, Lesotho, Malawi, Namibia, Rwanda, South Africa, Zambia and Zimbabwe, the frequency band 50-54 MHz is allocated to the amateur service on a primary basis. In Senegal, the frequency band 50-51 MHz is allocated to the amateur service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.169A",
+        "text": "Alternative allocation: in the following countries in Region 1: Angola, Saudi Arabia, Bahrain, Burkina Faso, Burundi, the United Arab Emirates, Gambia, Jordan, Kenya, Kuwait, Mauritius, Mozambique, Oman, Uganda, Qatar, South Sudan and Tanzania, the frequency band 50-54 MHz is allocated to the amateur service on a primary basis. In Guinea-Bissau, the frequency band 50.0-50.5 MHz is allocated to the amateur service on a primary basis. In Djibouti, the frequency band 50-52 MHz is allocated to the amateur service on a primary basis. With the exception of those countries listed in No. 5.169, stations in the amateur service operating in Region 1 under this footnote, in all or part of the frequency band 50-54 MHz, shall not cause harmful interference to, or claim protection from, stations of other services operating in accordance with the Radio Regulations in Algeria, Egypt, Iran (Islamic Republic of), Iraq, Israel, Libya, Palestine*, the Syrian Arab Republic, the Dem. People’s Republic of Korea, Sudan and Tunisia. The field strength generated by an amateur station in the frequency band 50-54 MHz shall not exceed a value of +6 dB(μV/m) at a height of 10 m above ground for more than 10% of time along the borders of listed countries requiring protection. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.169B",
+        "text": "Except countries listed under No. 5.169, stations in the amateur service used in Region 1, in all or part of the 50-54 MHz frequency band, shall not cause harmful interference to, or claim protection from, stations of other services used in accordance with the Radio Regulations in Algeria, Armenia, Azerbaijan, Belarus, Egypt, Russian Federation, Iran (Islamic Republic of), Iraq, Kazakhstan, Kyrgyzstan, Libya, Uzbekistan, Palestine*, the Syrian Arab Republic, Sudan, Tunisia and Ukraine. The field strength generated by an amateur station in the frequency band 50-54 MHz shall not exceed a value of +6 dB(μV/m) at a height of 10 m above ground for more than 10% of time along the borders of the countries listed in this provision. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.170",
+        "text": "Additional allocation: in New Zealand, the frequency band 51-54 MHz is also allocated to the fixed and mobile services on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.171",
+        "text": "Additional allocation: in Botswana, Eswatini, Lesotho, Malawi, Mali, Namibia, Dem. Rep. of the Congo, Rwanda, South Africa, Zambia and Zimbabwe, the frequency band 54-68 MHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.172",
+        "text": "Different category of service: in the French overseas departments and communities in Region 2 and Guyana, the allocation of the frequency band 54-68 MHz to the fixed and mobile services is on a primary basis (see No. 5.33). (WRC-15)"
+    },
+    {
+        "footnote_number": "5.173",
+        "text": "Different category of service: in the French overseas departments and communities in Region 2 and Guyana, the allocation of the frequency band 68-72 MHz to the fixed and mobile services is on a primary basis (see No. 5.33). (WRC-15)"
+    },
+    {
+        "footnote_number": "5.174",
+        "text": "(SUP - WRC-07)"
+    },
+    {
+        "footnote_number": "5.175",
+        "text": "Alternative allocation: in Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Moldova, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the bands 68-73 MHz and 76-87.5 MHz are allocated to the broadcasting service on a primary basis. In Latvia and Lithuania, the bands 68-73 MHz and 76-87.5 MHz are allocated to the broadcasting and mobile, except aeronautical mobile, services on a primary basis. The services to which these bands are allocated in other countries and the broadcasting service in the countries listed above are subject to agreements with the neighbouring countries concerned. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.176",
+        "text": "Additional allocation: in Australia, China, Korea (Rep. of), the Philippines, the Dem. People’s Rep. of Korea and Samoa, the band 68-74 MHz is also allocated to the broadcasting service on a primary basis. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.177",
+        "text": "Additional allocation: in Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the band 73-74 MHz is also allocated to the broadcasting service on a primary basis, subject to agreement obtained under No. 9.21. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.178",
+        "text": "Additional allocation: in Colombia, Cuba, El Salvador, Guatemala, Guyana, Honduras and Nicaragua, the band 73-74.6 MHz is also allocated to the fixed and mobile services on a secondary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.179",
+        "text": "Additional allocation: in Armenia, Azerbaijan, Belarus, China, the Russian Federation, Georgia, Kazakhstan, Lithuania, Mongolia, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the bands 74.6-74.8 MHz and 75.2-75.4 MHz are also allocated to the aeronautical radionavigation service, on a primary basis, for ground-based transmitters only. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.180",
+        "text": "The frequency 75 MHz is assigned to marker beacons. Administrations shall refrain from assigning frequencies close to the limits of the guardband to stations of other services which, because of their power or geographical position, might cause harmful interference or otherwise place a constraint on marker beacons. Every effort should be made to improve further the characteristics of airborne receivers and to limit the power of transmitting stations close to the limits 74.8 MHz and 75.2 MHz."
+    },
+    {
+        "footnote_number": "5.181",
+        "text": "Additional allocation: in Egypt, Israel and the Syrian Arab Republic, the band 74.8-75.2 MHz is also allocated to the mobile service on a secondary basis, subject to agreement obtained under No. 9.21. In order to ensure that harmful interference is not caused to stations of the aeronautical radionavigation service, stations of the mobile service shall not be introduced in the band until it is no longer required for the aeronautical radionavigation service by any administration which may be identified in the application of the procedure invoked under No. 9.21. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.182",
+        "text": "Additional allocation: in Western Samoa, the band 75.4-87 MHz is also allocated to the broadcasting service on a primary basis."
+    },
+    {
+        "footnote_number": "5.183",
+        "text": "Additional allocation: in China, Korea (Rep. of), Japan, the Philippines and the Dem. People’s Rep. of Korea, the band 76-87 MHz is also allocated to the broadcasting service on a primary basis."
+    },
+    {
+        "footnote_number": "5.184",
+        "text": "(SUP - WRC-07)"
+    },
+    {
+        "footnote_number": "5.185",
+        "text": "Different category of service: in the United States, the French overseas departments and communities in Region 2, Guyana and Paraguay, the allocation of the frequency band 76-88 MHz to the fixed and mobile services is on a primary basis (see No. 5.33). (WRC-15)"
+    },
+    {
+        "footnote_number": "5.186",
+        "text": "(SUP - WRC-97)"
+    },
+    {
+        "footnote_number": "5.187",
+        "text": "Alternative allocation: in Albania, the band 81-87.5 MHz is allocated to the broadcasting service on a primary basis and used in accordance with the decisions contained in the Final Acts of the Special Regional Conference (Geneva, 1960)."
+    },
+    {
+        "footnote_number": "5.188",
+        "text": "Additional allocation: in Australia, the band 85-87 MHz is also allocated to the broadcasting service on a primary basis. The introduction of the broadcasting service in Australia is subject to special agreements between the administrations concerned."
+    },
+    {
+        "footnote_number": "5.189",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.190",
+        "text": "Additional allocation: in Monaco, the band 87.5-88 MHz is also allocated to the land mobile service on a primary basis, subject to agreement obtained under No. 9.21. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.191",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.192",
+        "text": "Additional allocation: in China and Korea (Rep. of), the band 100-108 MHz is also allocated to the fixed and mobile services on a primary basis. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.193",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.194",
+        "text": "Additional allocation: in Kyrgyzstan, Somalia and Turkmenistan, the frequency band 104-108 MHz is also allocated to the mobile, except aeronautical mobile (R), service on a secondary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.195",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.196",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.197",
+        "text": "Additional allocation: in the Syrian Arab Republic, the band 108-111.975 MHz is also allocated to the mobile service on a secondary basis, subject to agreement obtained under No. 9.21. In order to ensure that harmful interference is not caused to stations of the aeronautical radionavigation service, stations of the mobile service shall not be introduced in the band until it is no longer required for the aeronautical radionavigation service by any administration which may be identified in the application of the procedures invoked under No. 9.21. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.197A",
+        "text": "Additional allocation: the band 108-117.975 MHz is also allocated on a primary basis to the aeronautical mobile (R) service, limited to systems operating in accordance with recognized international aeronautical standards. Such use shall be in accordance with Resolution 413 (Rev.WRC-07)*. The use of the band 108-112 MHz by the aeronautical mobile (R) service shall be limited to systems composed of ground-based transmitters and associated receivers that provide navigational information in support of air navigation functions in accordance with recognized international aeronautical standards. (WRC-07) * Note by the Secretariat: This Resolution was revised by WRC-12."
+    },
+    {
+        "footnote_number": "5.198",
+        "text": "(SUP - WRC-07)"
+    },
+    {
+        "footnote_number": "5.199",
+        "text": "(SUP - WRC-07)"
+    },
+    {
+        "footnote_number": "5.200",
+        "text": "In the band 117.975-137 MHz, the frequency 121.5 MHz is the aeronautical emergency frequency and, where required, the frequency 123.1 MHz is the aeronautical frequency auxiliary to 121.5 MHz. Mobile stations of the maritime mobile service may communicate on these frequencies under the conditions laid down in Article 31 for distress and safety purposes with stations of the aeronautical mobile service. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.201",
+        "text": "Additional allocation: in Armenia, Azerbaijan, Belarus, Bulgaria, Estonia, the Russian Federation, Georgia, Hungary, Iran (Islamic Republic of), Iraq (Republic of), Japan, Kazakhstan, Mali, Mongolia, Mozambique, Uzbekistan, Papua New Guinea, Poland, Kyrgyzstan, Romania, Senegal, Tajikistan, Turkmenistan and Ukraine, the frequency band 132-136 MHz is also allocated to the aeronautical mobile (OR) service on a primary basis. In assigning frequencies to stations of the aeronautical mobile (OR) service, the administration shall take account of the frequencies assigned to stations in the aeronautical mobile (R) service. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.202",
+        "text": "Additional allocation: in Saudi Arabia, Armenia, Azerbaijan, Bahrain, Belarus, Bulgaria, the United Arab Emirates, the Russian Federation, Georgia, Iran (Islamic Republic of), Jordan, Mali, Oman, Uzbekistan, Poland, the Syrian Arab Republic, Kyrgyzstan, Romania, Senegal, Tajikistan, Turkmenistan and Ukraine, the frequency band 136-137 MHz is also allocated to the aeronautical mobile (OR) service on a primary basis. In assigning frequencies to stations of the aeronautical mobile (OR) service, the administration shall take account of the frequencies assigned to stations in the aeronautical mobile (R) service. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.203",
+        "text": "(SUP - WRC-07)"
+    },
+    {
+        "footnote_number": "5.203A",
+        "text": "(SUP - WRC-07)"
+    },
+    {
+        "footnote_number": "5.203B",
+        "text": "(SUP - WRC-07)"
+    },
+    {
+        "footnote_number": "5.203C",
+        "text": "The use of the space operation service (space-to-Earth) with non-geostationary satellite short-duration mission systems in the frequency band 137-138 MHz is subject to Resolution 660 (WRC-19). Resolution 32 (WRC-19) applies. These systems shall not cause harmful interference to, or claim protection from, the existing services to which the frequency band is allocated on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.204",
+        "text": "Different category of service: in Afghanistan, Saudi Arabia, Bahrain, Bangladesh, Brunei Darussalam, China, Cuba, the United Arab Emirates, India, Indonesia, Iran (Islamic Republic of), Iraq, Kuwait, Montenegro, Oman, Pakistan, the Philippines, Qatar, Singapore, Thailand and Yemen, the frequency band 137-138 MHz is allocated to the fixed and mobile, except aeronautical mobile (R), services on a primary basis (see No. 5.33). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.205",
+        "text": "Different category of service: in Israel and Jordan, the allocation of the band 137-138 MHz to the fixed and mobile, except aeronautical mobile, services is on a primary basis (see No. 5.33)."
+    },
+    {
+        "footnote_number": "5.206",
+        "text": "Different category of service: in Armenia, Azerbaijan, Belarus, Bulgaria, Egypt, the Russian Federation, Finland, France, Georgia, Greece, Kazakhstan, Lebanon, Moldova, Mongolia, Uzbekistan, Poland, Kyrgyzstan, the Syrian Arab Republic, Slovakia, the Czech Rep., Romania, Tajikistan, Turkmenistan and Ukraine, the allocation of the band 137-138 MHz to the aeronautical mobile (OR) service is on a primary basis (see No. 5.33). (WRC-2000)"
+    },
+    {
+        "footnote_number": "5.207",
+        "text": "Additional allocation: in Australia, the band 137-144 MHz is also allocated to the broadcasting service on a primary basis until that service can be accommodated within regional broadcasting allocations."
+    },
+    {
+        "footnote_number": "5.208",
+        "text": "The use of the band 137-138 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.208A",
+        "text": "In making assignments to space stations in the mobile-satellite service in the frequency bands 137-138 MHz, 387-390 MHz and 400.15-401 MHz and in the maritime mobile-satellite service (space-to-Earth) in the frequency bands 157.1875-157.3375 MHz and 161.7875-161.9375 MHz, administrations shall take all practicable steps to protect the radio astronomy service in the frequency bands 150.05-153 MHz, 322-328.6 MHz, 406.1-410 MHz and 608-614 MHz from harmful interference from unwanted emissions as shown in the most recent version of Recommendation ITU-R RA.769. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.208B",
+        "text": "In the frequency bands: 137-138 MHz, 157.1875-157.3375 MHz, 161.7875-161.9375 MHz, 387-390 MHz, 400.15-401 MHz, 1452-1492 MHz, 1525-1610 MHz, 1613.8-1626.5 MHz, 2655-2690 MHz, 21.4-22 GHz, Resolution 739 (Rev.WRC-19) applies. (WRC-19)",
+        "note": "This provision was previously numbered as No. 5.347A. It was renumbered to preserve the sequential order."
+    },
+    {
+        "footnote_number": "5.209",
+        "text": "The use of the bands 137-138 MHz, 148-150.05 MHz, 399.9-400.05 MHz, 400.15-401 MHz, 454-456 MHz and 459-460 MHz by the mobile-satellite service is limited to non-geostationary-satellite systems. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.209A",
+        "text": "The use of the frequency band 137.175-137.825 MHz by non-geostationary-satellite systems in the space operation service identified as short-duration mission in accordance with Appendix 4 is not subject to No. 9.11A. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.210",
+        "text": "Additional allocation: in Italy, the Czech Rep. and the United Kingdom, the bands 138-143.6 MHz and 143.65-144 MHz are also allocated to the space research service (space-to-Earth) on a secondary basis. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.211",
+        "text": "Additional allocation: in Germany, Saudi Arabia, Austria, Bahrain, Belgium, Denmark, the United Arab Emirates, Spain, Finland, Greece, Guinea, Ireland, Israel, Kenya, Kuwait, Lebanon, Liechtenstein, Luxembourg, North Macedonia, Mali, Malta, Montenegro, Norway, the Netherlands, Qatar, Slovakia, the United Kingdom, Serbia, Slovenia, Somalia, Sweden, Switzerland, Tanzania, Tunisia and Turkey, the frequency band 138-144 MHz is also allocated to the maritime mobile and land mobile services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.212",
+        "text": "Alternative allocation: in Angola, Botswana, Cameroon, the Central African Rep., Congo (Rep. of the), Eswatini, Gabon, Gambia, Ghana, Guinea, Iraq, Jordan, Lesotho, Liberia, Libya, Malawi, Mozambique, Namibia, Niger, Oman, Uganda, Syrian Arab Republic, the Dem. Rep. of the Congo, Rwanda, Sierra Leone, South Africa, Chad, Togo, Zambia and Zimbabwe, the frequency band 138-144 MHz is allocated to the fixed and mobile services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.213",
+        "text": "Additional allocation: in China, the band 138-144 MHz is also allocated to the radiolocation service on a primary basis."
+    },
+    {
+        "footnote_number": "5.214",
+        "text": "Additional allocation: in Eritrea, Ethiopia, Kenya, North Macedonia, Montenegro, Serbia, Somalia, Sudan, South Sudan and Tanzania, the frequency band 138-144 MHz is also allocated to the fixed service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.215",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.216",
+        "text": "Additional allocation: in China, the band 144-146 MHz is also allocated to the aeronautical mobile (OR) service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.217",
+        "text": "Alternative allocation: in Afghanistan, Bangladesh, Cuba, Guyana and India, the band 146-148 MHz is allocated to the fixed and mobile services on a primary basis."
+    },
+    {
+        "footnote_number": "5.218",
+        "text": "Additional allocation: the band 148-149.9 MHz is also allocated to the space operation service (Earth-to-space) on a primary basis, subject to agreement obtained under No. 9.21. The bandwidth of any individual transmission shall not exceed ±25 kHz."
+    },
+    {
+        "footnote_number": "5.218A",
+        "text": "The frequency band 148-149.9 MHz in the space operation service (Earth-to-space) may be used by non-geostationary-satellite systems with short-duration missions. Non-geostationary-satellite systems in the space operation service used for a short-duration mission in accordance with Resolution 32 (WRC-19) of the Radio Regulations are not subject to agreement under No. 9.21. At the stage of coordination, the provisions of Nos. 9.17 and 9.18 also apply. In the frequency band 148-149.9 MHz, non-geostationary-satellite systems with short-duration missions shall not cause unacceptable interference to, or claim protection from, existing primary services within this frequency band, or impose additional constraints on the space operation and mobile-satellite services. In addition, earth stations in non-geostationary-satellite systems in the space operation service with short-duration missions in the frequency band 148-149.9 MHz shall ensure that the power flux-density does not exceed −149 dB(W/(m²·4 kHz)) for more than 1% of time at the border of the territory of the following countries: Armenia, Azerbaijan, Belarus, China, Korea (Rep. of), Cuba, Russian Federation, India, Iran (Islamic Republic of), Japan, Kazakhstan, Malaysia, Uzbekistan, Kyrgyzstan, Thailand and Viet Nam. In case this power flux-density limit is exceeded, agreement under No. 9.21 is required to be obtained from countries mentioned in this footnote. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.219",
+        "text": "The use of the frequency band 148-149.9 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. The mobile-satellite service shall not constrain the development and use of the fixed, mobile and space operation services in the frequency band 148-149.9 MHz. The use of the frequency band 148-149.9 MHz by non-geostationary-satellite systems in the space operation service identified as short-duration mission is not subject to No. 9.11A. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.220",
+        "text": "The use of the frequency bands 149.9-150.05 MHz and 399.9-400.05 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.221",
+        "text": "Stations of the mobile-satellite service in the frequency band 148-149.9 MHz shall not cause harmful interference to, or claim protection from, stations of the fixed or mobile services operating in accordance with the Table of Frequency Allocations in the following countries: Albania, Algeria, Germany, Saudi Arabia, Australia, Austria, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Brunei Darussalam, Bulgaria, Cameroon, China, Cyprus, Congo (Rep. of the), Korea (Rep. of), Côte d'Ivoire, Croatia, Cuba, Denmark, Djibouti, Egypt, the United Arab Emirates, Eritrea, Spain, Estonia, Eswatini, Ethiopia, the Russian Federation, Finland, France, Gabon, Georgia, Ghana, Greece, Guinea, Guinea Bissau, Hungary, India, Iran (Islamic Republic of), Ireland, Iceland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kuwait, Lesotho, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, North Macedonia, Malaysia, Mali, Malta, Mauritania, Moldova, Mongolia, Montenegro, Mozambique, Namibia, Norway, New Zealand, Oman, Uganda, Uzbekistan, Pakistan, Panama, Papua New Guinea, Paraguay, the Netherlands, the Philippines, Poland, Portugal, Qatar, the Syrian Arab Republic, Kyrgyzstan, Dem. People's Rep. of Korea, Slovakia, Romania, the United Kingdom, Senegal, Serbia, Sierra Leone, Singapore, Slovenia, Sudan, Sri Lanka, South Africa, Sweden, Switzerland, Tanzania, Chad, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Ukraine, Viet Nam, Yemen, Zambia and Zimbabwe. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.222",
+        "text": "SUP -WRC-15"
+    },
+    {
+        "footnote_number": "5.223",
+        "text": "SUP -WRC-15"
+    },
+    {
+        "footnote_number": "5.224",
+        "text": "SUP -WRC-97"
+    },
+    {
+        "footnote_number": "5.224A",
+        "text": "SUP -WRC-15"
+    },
+    {
+        "footnote_number": "5.224B",
+        "text": "SUP -WRC-15"
+    },
+    {
+        "footnote_number": "5.225",
+        "text": "Additional allocation: in Australia and India, the band 150.05-153 MHz is also allocated to the radio astronomy service on a primary basis."
+    },
+    {
+        "footnote_number": "5.225A",
+        "text": "Additional allocation: in Algeria, Armenia, Azerbaijan, Belarus, China, the Russian Federation, France, Iran (Islamic Republic of), Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan, Ukraine and Viet Nam, the frequency band 154-156 MHz is also allocated to the radiolocation service on a primary basis. The usage of the frequency band 154-156 MHz by the radiolocation service shall be limited to space-object detection systems operating from terrestrial locations. The operation of stations in the radiolocation service in the frequency band 154-156 MHz shall be subject to agreement obtained under No. 9.21. For the identification of potentially affected administrations in Region 1, the instantaneous field-strength value of 12 dB(μV/m) for 10% of the time produced at 10 m above ground level in the 25 kHz reference frequency band at the border of the territory of any other administration shall be used. For the identification of potentially affected administrations in Region 3, the interference-to-noise ratio (I/N) value of −6 dB (N = −161 dBW/4 kHz), or −10 dB for applications with greater protection requirements, such as public protection and disaster relief (PPDR (N = −161 dBW/4 kHz)), for 1% of the time produced at 60 m above ground level at the border of the territory of any other administration shall be used. In the frequency bands 156.7625-156.8375 MHz, 156.5125-156.5375 MHz, 161.9625-161.9875 MHz, 162.0125-162.0375 MHz, out-of-band e.i.r.p. of space surveillance radars shall not exceed −16 dBW. Frequency assignments to the radiolocation service under this allocation in Ukraine shall not be used without the agreement of Moldova. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.226",
+        "text": "The frequency 156.525 MHz is the international distress, safety and calling frequency for the maritime mobile VHF radiotelephone service using digital selective calling (DSC). The conditions for the use of this frequency and the band 156.4875-156.5625 MHz are contained in Articles 31 and 52, and in Appendix 18. The frequency 156.8 MHz is the international distress, safety and calling frequency for the maritime mobile VHF radiotelephone service. The conditions for the use of this frequency and the band 156.7625-156.8375 MHz are contained in Article 31 and Appendix 18. In the bands 156-156.4875 MHz, 156.5625-156.7625 MHz, 156.8375-157.45 MHz, 160.6-160.975 MHz and 161.475-162.05 MHz, each administration shall give priority to the maritime mobile service on only such frequencies as are assigned to stations of the maritime mobile service by the administration (see Articles 31 and 52, and Appendix 18). Any use of frequencies in these bands by stations of other services to which they are allocated should be avoided in areas where such use might cause harmful interference to the maritime mobile VHF radiocommunication service. However, the frequencies 156.8 MHz and 156.525 MHz and the frequency bands in which priority is given to the maritime mobile service may be used for radiocommunications on inland waterways subject to agreement between interested and affected administrations and taking into account current frequency usage and existing agreements. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.227",
+        "text": "Additional allocation: the bands 156.4875-156.5125 MHz and 156.5375-156.5625 MHz are also allocated to the fixed and land mobile services on a primary basis. The use of these bands by the fixed and land mobile services shall not cause harmful interference to nor claim protection from the maritime mobile VHF radiocommunication service. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.227A",
+        "text": "SUP -WRC-12"
+    },
+    {
+        "footnote_number": "5.228",
+        "text": "The use of the frequency bands 156.7625-156.7875 MHz and 156.8125-156.8375 MHz by the mobile-satellite service (Earth-to-space) is limited to the reception of automatic identification system (AIS) emissions of long-range AIS broadcast messages (Message 27, see the most recent version of Recommendation ITU-R M.1371). With the exception of AIS emissions, emissions in these frequency bands by systems operating in the maritime mobile service for communications shall not exceed 1 W. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.228AB",
+        "text": "The use of the frequency bands 157.1875-157.3375 MHz and 161.7875-161.9375 MHz by the maritime mobile-satellite service (Earth-to-space) is limited to non-geostationary-satellite systems operating in accordance with Appendix 18. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.228AC",
+        "text": "The use of the frequency bands 157.1875-157.3375 MHz and 161.7875-161.9375 MHz by the maritime mobile-satellite service (space-to-Earth) is limited to non-geostationary-satellite systems operating in accordance with Appendix 18. Such use is subject to agreement obtained under No. 9.21 with respect to the terrestrial services in Azerbaijan, Belarus, China, Korea (Rep. of), Cuba, the Russian Federation, the Syrian Arab Republic, the Dem. People’s Rep. of Korea, South Africa and Viet Nam. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.228A",
+        "text": "The frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz may be used by aircraft stations for the purpose of search and rescue operations and other safety-related communications. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.228AA",
+        "text": "The use of the frequency bands 161.9375-161.9625 MHz and 161.9875-162.0125 MHz by the maritime mobile-satellite (Earth-to-space) service is limited to the systems which operate in accordance with Appendix 18. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.228B",
+        "text": "The use of the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the fixed and land mobile services shall not cause harmful interference to, or claim protection from, the maritime mobile service. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.228C",
+        "text": "The use of the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the maritime mobile service and the mobile-satellite (Earth-to-space) service is limited to the automatic identification system (AIS). The use of these frequency bands by the aeronautical mobile (OR) service is limited to AIS emissions from search and rescue aircraft operations. The AIS operations in these frequency bands shall not constrain the development and use of the fixed and mobile services operating in the adjacent frequency bands. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.228D",
+        "text": "The frequency bands 161.9625-161.9875 MHz (AIS 1) and 162.0125-162.0375 MHz (AIS 2) may continue to be used by the fixed and mobile services on a primary basis until 1 January 2025, at which time this allocation shall no longer be valid. Administrations are encouraged to make all practicable efforts to discontinue the use of these bands by the fixed and mobile services prior to the transition date. During this transition period, the maritime mobile service in these frequency bands has priority over the fixed, land mobile and aeronautical mobile services. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.228E",
+        "text": "The use of the automatic identification system in the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the aeronautical mobile (OR) service is limited to aircraft stations for the purpose of search and rescue operations and other safety-related communications. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.228F",
+        "text": "The use of the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the mobile-satellite service (Earth-to-space) is limited to the reception of automatic identification system emissions from stations operating in the maritime mobile service. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.229",
+        "text": "Alternative allocation: in Morocco, the band 162-174 MHz is allocated to the broadcasting service on a primary basis. The use of this band shall be subject to agreement with administrations having services, operating or planned, in accordance with the Table which are likely to be affected. Stations in existence on 1 January 1981, with their technical characteristics as of that date, are not affected by such agreement."
+    },
+    {
+        "footnote_number": "5.230",
+        "text": "Additional allocation: in China, the band 163-167 MHz is also allocated to the space operation service (space-to-Earth) on a primary basis, subject to agreement obtained under No. 9.21."
+    },
+    {
+        "footnote_number": "5.231",
+        "text": "Additional allocation: in Afghanistan and China, the band 167-174 MHz is also allocated to the broadcasting service on a primary basis. The introduction of the broadcasting service into this band shall be subject to agreement with the neighbouring countries in Region 3 whose services are likely to be affected. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.232",
+        "text": "SUP -WRC-15"
+    },
+    {
+        "footnote_number": "5.233",
+        "text": "Additional allocation: in China, the band 174-184 MHz is also allocated to the space research (space-to-Earth) and the space operation (space-to-Earth) services on a primary basis, subject to agreement obtained under No. 9.21. These services shall not cause harmful interference to, or claim protection from, existing or planned broadcasting stations."
+    },
+    {
+        "footnote_number": "5.234",
+        "text": "SUP -WRC-15"
+    },
+    {
+        "footnote_number": "5.235",
+        "text": "Additional allocation: in Germany, Austria, Belgium, Denmark, Spain, Finland, France, Israel, Italy, Liechtenstein, Malta, Monaco, Norway, the Netherlands, the United Kingdom, Sweden and Switzerland, the band 174-223 MHz is also allocated to the land mobile service on a primary basis. However, the stations of the land mobile service shall not cause harmful interference to, or claim protection from, broadcasting stations, existing or planned, in countries other than those listed in this footnote."
+    },
+    {
+        "footnote_number": "5.236",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.237",
+        "text": "Additional allocation: in Congo (Rep. of the), Egypt, Eritrea, Ethiopia, Gambia, Guinea, Libya, Mali, Sierra Leone, Somalia and Chad, the band 174-223 MHz is also allocated to the fixed and mobile services on a secondary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.238",
+        "text": "Additional allocation: in Bangladesh, India, Pakistan and the Philippines, the band 200-216 MHz is also allocated to the aeronautical radionavigation service on a primary basis."
+    },
+    {
+        "footnote_number": "5.239",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.240",
+        "text": "Additional allocation: in China and India, the band 216-223 MHz is also allocated to the aeronautical radionavigation service on a primary basis and to the radiolocation service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.241",
+        "text": "In Region 2, no new stations in the radiolocation service may be authorized in the band 216-225 MHz. Stations authorized prior to 1 January 1990 may continue to operate on a secondary basis."
+    },
+    {
+        "footnote_number": "5.242",
+        "text": "Additional allocation: in Canada and Mexico, the frequency band 216-220 MHz is also allocated to the land mobile service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.243",
+        "text": "Additional allocation: in Somalia, the band 216-225 MHz is also allocated to the aeronautical radionavigation service on a primary basis, subject to not causing harmful interference to existing or planned broadcasting services in other countries."
+    },
+    {
+        "footnote_number": "5.244",
+        "text": "SUP -WRC-97"
+    },
+    {
+        "footnote_number": "5.245",
+        "text": "Additional allocation: in Japan, the band 222-223 MHz is also allocated to the aeronautical radionavigation service on a primary basis and to the radiolocation service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.246",
+        "text": "Alternative allocation: in Spain, France, Israel and Monaco, the band 223-230 MHz is allocated to the broadcasting and land mobile services on a primary basis (see No. 5.33) on the basis that, in the preparation of frequency plans, the broadcasting service shall have prior choice of frequencies; and allocated to the fixed and mobile, except land mobile, services on a secondary basis. However, the stations of the land mobile service shall not cause harmful interference to, or claim protection from, existing or planned broadcasting stations in Morocco and Algeria."
+    },
+    {
+        "footnote_number": "5.247",
+        "text": "Additional allocation: in Saudi Arabia, Bahrain, the United Arab Emirates, Jordan, Oman, Qatar and Syrian Arab Republic, the band 223-235 MHz is also allocated to the aeronautical radionavigation service on a primary basis."
+    },
+    {
+        "footnote_number": "5.248",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.249",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.250",
+        "text": "Additional allocation: in China, the band 225-235 MHz is also allocated to the radio astronomy service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.251",
+        "text": "Additional allocation: in Nigeria, the band 230-235 MHz is also allocated to the aeronautical radionavigation service on a primary basis, subject to agreement obtained under No. 9.21."
+    },
+    {
+        "footnote_number": "5.252",
+        "text": "Alternative allocation: in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe, the frequency bands 230-238 MHz and 246-254 MHz are allocated to the broadcasting service on a primary basis, subject to agreement obtained under No. 9.21. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.253",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.254",
+        "text": "The bands 235-322 MHz and 335.4-399.9 MHz may be used by the mobile-satellite service, subject to agreement obtained under No. 9.21, on condition that stations in this service do not cause harmful interference to those of other services operating or planned to be operated in accordance with the Table of Frequency Allocations except for the additional allocation made in footnote No. 5.256A. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.255",
+        "text": "The bands 312-315 MHz (Earth-to-space) and 387-390 MHz (space-to-Earth) in the mobile-satellite service may also be used by non-geostationary-satellite systems. Such use is subject to coordination under No. 9.11A."
+    },
+    {
+        "footnote_number": "5.256",
+        "text": "The frequency 243 MHz is the frequency in this band for use by survival craft stations and equipment used for survival purposes. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.256A",
+        "text": "Additional allocation: in China, the Russian Federation and Kazakhstan, the frequency band 258-261 MHz is also allocated to the space research service (Earth-to-space) and space operation service (Earth-to-space) on a primary basis. Stations in the space research service (Earth-to-space) and space operation service (Earth-to-space) shall not cause harmful interference to, or claim protection from, or constrain the use and development of, the mobile service systems and mobile-satellite service systems operating in the frequency band. Stations in space research service (Earth-to-space) and space operation service (Earth-to-space) shall not constrain the future development of fixed service systems of other countries. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.257",
+        "text": "The band 267-272 MHz may be used by administrations for space telemetry in their countries on a primary basis, subject to agreement obtained under No. 9.21."
+    },
+    {
+        "footnote_number": "5.258",
+        "text": "The use of the band 328.6-335.4 MHz by the aeronautical radionavigation service is limited to Instrument Landing Systems (glide path)."
+    },
+    {
+        "footnote_number": "5.259",
+        "text": "Additional allocation: in Egypt and the Syrian Arab Republic, the band 328.6-335.4 MHz is also allocated to the mobile service on a secondary basis, subject to agreement obtained under No. 9.21. In order to ensure that harmful interference is not caused to stations of the aeronautical radionavigation service, stations of the mobile service shall not be introduced in the band until it is no longer required for the aeronautical radionavigation service by any administration which may be identified in the application of the procedure invoked under No. 9.21. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.260",
+        "text": "SUP -WRC-15"
+    },
+    {
+        "footnote_number": "5.260A",
+        "text": "In the frequency band 399.9-400.05 MHz, the maximum e.i.r.p. of any emission of earth stations in the mobile-satellite service shall not exceed 5 dBW in any 4 kHz band and the maximum e.i.r.p. of each earth station in the mobile-satellite service shall not exceed 5 dBW in the whole 399.9-400.05 MHz frequency band. Until 22 November 2022, this limit shall not apply to satellite systems for which complete notification information has been received by the Radiocommunication Bureau by 22 November 2019 and that have been brought into use by that date. After 22 November 2022, these limits shall apply to all systems within the mobile-satellite service operating in this frequency band. In the frequency band 399.99-400.02 MHz, the e.i.r.p. limits as specified above shall apply after 22 November 2022 to all systems within the mobile-satellite service. Administrations are requested that their mobile-satellite service satellite links in the 399.99-400.02 MHz frequency band comply with the e.i.r.p. limits as specified above, after 22 November 2019. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.260B",
+        "text": "In the frequency band 400.02-400.05 MHz, the provisions of No. 5.260A are not applicable for telecommand uplinks within the mobile-satellite service. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.261",
+        "text": "Emissions shall be confined in a band of ± 25 kHz about the standard frequency 400.1 MHz."
+    },
+    {
+        "footnote_number": "5.262",
+        "text": "Additional allocation: in Saudi Arabia, Armenia, Azerbaijan, Bahrain, Belarus, Botswana, Colombia, Cuba, Egypt, the United Arab Emirates, Ecuador, the Russian Federation, Georgia, Hungary, Iran (Islamic Republic of), Iraq, Israel, Jordan, Kazakhstan, Kuwait, Liberia, Malaysia, Moldova, Oman, Uzbekistan, Pakistan, the Philippines, Qatar, the Syrian Arab Republic, Kyrgyzstan, Singapore, Somalia, Tajikistan, Chad, Turkmenistan and Ukraine, the band 400.05-401 MHz is also allocated to the fixed and mobile services on a primary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.263",
+        "text": "The band 400.15-401 MHz is also allocated to the space research service in the space-to-space direction for communications with manned space vehicles. In this application, the space research service will not be regarded as a safety service."
+    },
+    {
+        "footnote_number": "5.264",
+        "text": "The use of the band 400.15-401 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. The power flux-density limit indicated in Annex 1 of Appendix 5 shall apply until such time as a competent world radiocommunication conference revises it."
+    },
+    {
+        "footnote_number": "5.264A",
+        "text": "In the frequency band 401-403 MHz, the maximum e.i.r.p. of any emission of each earth station in the meteorological-satellite service and the Earth exploration-satellite service shall not exceed 22 dBW in any 4 kHz band for geostationary-satellite systems and non-geostationary-satellite systems with an orbit of apogee equal or greater than 35 786 km. The maximum e.i.r.p. of any emission of each earth station in the meteorological-satellite service and the Earth exploration-satellite service shall not exceed 7 dBW in any 4 kHz band for non-geostationary-satellite systems with an orbit of apogee lower than 35 786 km. The maximum e.i.r.p. of each earth station in the meteorological-satellite service and the Earth exploration-satellite service shall not exceed 22 dBW for geostationary-satellite systems and non-geostationary-satellite systems with an orbit of apogee equal or greater than 35 786 km in the whole 401-403 MHz frequency band. The maximum e.i.r.p. of each earth station in the meteorological-satellite service and the Earth exploration-satellite service shall not exceed 7 dBW for non-geostationary-satellite systems with an orbit of apogee lower than 35 786 km in the whole 401-403 MHz frequency band. Until 22 November 2029, these limits shall not apply to satellite systems for which complete notification information has been received by the Radiocommunication Bureau by 22 November 2019 and that have been brought into use by that date. After 22 November 2029, these limits shall apply to all systems within the meteorological-satellite service and the Earth exploration-satellite service operating in this frequency band. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.264B",
+        "text": "Non-geostationary-satellite systems in the meteorological-satellite service and the Earth exploration-satellite service for which complete notification information has been received by the Radiocommunication Bureau before 28 April 2007 are exempt from provisions of No. 5.264A and may continue to operate in the frequency band 401.898-402.522 MHz on a primary basis without exceeding a maximum e.i.r.p. level of 12 dBW. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.265",
+        "text": "In the frequency band 403-410 MHz, Resolution 205 (Rev.WRC-19) applies. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.266",
+        "text": "The use of the band 406-406.1 MHz by the mobile-satellite service is limited to low power satellite emergency position-indicating radiobeacons (see also Article 31). (WRC-07)"
+    },
+    {
+        "footnote_number": "5.267",
+        "text": "Any emission capable of causing harmful interference to the authorized uses of the band 406-406.1 MHz is prohibited."
+    },
+    {
+        "footnote_number": "5.268",
+        "text": "Use of the frequency band 410-420 MHz by the space research service is limited to space-to-space communication links with an orbiting, manned space vehicle. The power flux-density at the surface of the Earth produced by emissions from transmitting stations of the space research service (space-to-space) in the frequency band 410-420 MHz shall not exceed −153 dB(W/m2) for 0° ≤ δ ≤ 5°, −153 + 0.077 (δ − 5) dB(W/m2) for 5° ≤ δ ≤ 70° and −148 dB(W/m2) for 70° ≤ δ ≤ 90°, where δ is the angle of arrival of the radio-frequency wave and the reference bandwidth is 4 kHz. In this frequency band, stations of the space research service (space-to-space) shall not claim protection from, nor constrain the use and development of, stations of the fixed and mobile services. No. 4.10 does not apply. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.269",
+        "text": "Different category of service: in Australia, the United States, India, Japan and the United Kingdom, the allocation of the bands 420-430 MHz and 440-450 MHz to the radiolocation service is on a primary basis (see No. 5.33)."
+    },
+    {
+        "footnote_number": "5.270",
+        "text": "Additional allocation: in Australia, the United States, Jamaica and the Philippines, the bands 420-430 MHz and 440-450 MHz are also allocated to the amateur service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.271",
+        "text": "Additional allocation: in Belarus, China, India, Kyrgyzstan and Turkmenistan, the band 420-460 MHz is also allocated to the aeronautical radionavigation service (radio altimeters) on a secondary basis. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.272",
+        "text": "SUP -WRC-12"
+    },
+    {
+        "footnote_number": "5.273",
+        "text": "SUP -WRC-12"
+    },
+    {
+        "footnote_number": "5.274",
+        "text": "Alternative allocation: in Denmark, Norway, Sweden and Chad, the bands 430-432 MHz and 438-440 MHz are allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.275",
+        "text": "Additional allocation: in Croatia, Estonia, Finland, Libya, North Macedonia, Montenegro and Serbia, the frequency bands 430-432 MHz and 438-440 MHz are also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.276",
+        "text": "Additional allocation: in Afghanistan, Algeria, Saudi Arabia, Bahrain, Bangladesh, Brunei Darussalam, Burkina Faso, Djibouti, Egypt, the United Arab Emirates, Ecuador, Eritrea, Ethiopia, Greece, Guinea, India, Indonesia, Iran (Islamic Republic of), Iraq, Israel, Italy, Jordan, Kenya, Kuwait, Libya, Malaysia, Niger, Nigeria, Oman, Pakistan, the Philippines, Qatar, the Syrian Arab Republic, the Dem. People’s Rep. of Korea, Singapore, Somalia, Sudan, Switzerland, Thailand, Togo, Turkey and Yemen, the frequency band 430-440 MHz is also allocated to the fixed service on a primary basis and the frequency bands 430-435 MHz and 438-440 MHz are also allocated, except in Ecuador, to the mobile, except aeronautical mobile, service on a primary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.277",
+        "text": "Additional allocation: in Angola, Armenia, Azerbaijan, Belarus, Cameroon, Congo (Rep. of the), Djibouti, the Russian Federation, Georgia, Hungary, Israel, Kazakhstan, Mali, Uzbekistan, Poland, the Dem. Rep. of the Congo, Kyrgyzstan, Slovakia, Romania, Rwanda, Tajikistan, Chad, Turkmenistan and Ukraine, the frequency band 430-440 MHz is also allocated to the fixed service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.278",
+        "text": "Different category of service: in Argentina, Brazil, Colombia, Costa Rica, Cuba, Guyana, Honduras, Panama, Paraguay, Uruguay and Venezuela, the allocation of the frequency band 430-440 MHz to the amateur service is on a primary basis (see No. 5.33). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.279",
+        "text": "Additional allocation: in Mexico, the frequency bands 430-435 MHz and 438-440 MHz are also allocated on a primary basis to the mobile, except aeronautical mobile, service, and on a secondary basis to the fixed service, subject to agreement obtained under No. 9.21. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.279A",
+        "text": "The use of the frequency band 432-438 MHz by sensors in the Earth exploration-satellite service (active) shall be in accordance with Recommendation ITU-R RS.1260-2. Additionally, the Earth exploration-satellite service (active) in the frequency band 432-438 MHz shall not cause harmful interference to the aeronautical radionavigation service in China. The provisions of this footnote in no way diminish the obligation of the Earth exploration-satellite service (active) to operate as a secondary service in accordance with Nos. 5.29 and 5.30. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.280",
+        "text": "In Germany, Austria, Bosnia and Herzegovina, Croatia, Liechtenstein, North Macedonia, Montenegro, Portugal, Serbia, Slovenia and Switzerland, the frequency band 433.05-434.79 MHz (centre frequency 433.92 MHz) is designated for industrial, scientific and medical (ISM) applications. Radiocommunication services of these countries operating within this frequency band must accept harmful interference which may be caused by these applications. ISM equipment operating in this frequency band is subject to the provisions of No. 15.13. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.281",
+        "text": "Additional allocation: in the French overseas departments and communities in Region 2 and India, the band 433.75-434.25 MHz is also allocated to the space operation service (Earth-to-space) on a primary basis. In France and in Brazil, the band is allocated to the same service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.282",
+        "text": "In the bands 435-438 MHz, 1260-1270 MHz, 2400-2450 MHz, 3400-3410 MHz (in Regions 2 and 3 only) and 5650-5670 MHz, the amateur-satellite service may operate subject to not causing harmful interference to other services operating in accordance with the Table (see No. 5.43). Administrations authorizing such use shall ensure that any harmful interference caused by emissions from a station in the amateur-satellite service is immediately eliminated in accordance with the provisions of No. 25.11. The use of the bands 1260-1270 MHz and 5650-5670 MHz by the amateur-satellite service is limited to the Earth-to-space direction."
+    },
+    {
+        "footnote_number": "5.283",
+        "text": "Additional allocation: in Austria, the band 438-440 MHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis."
+    },
+    {
+        "footnote_number": "5.284",
+        "text": "Additional allocation: in Canada, the band 440-450 MHz is also allocated to the amateur service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.285",
+        "text": "Different category of service: in Canada, the allocation of the band 440-450 MHz to the radiolocation service is on a primary basis (see No. 5.33)."
+    },
+    {
+        "footnote_number": "5.286",
+        "text": "The band 449.75-450.25 MHz may be used for the space operation service (Earth-to-space) and the space research service (Earth-to-space), subject to agreement obtained under No. 9.21."
+    },
+    {
+        "footnote_number": "5.286A",
+        "text": "The use of the bands 454-456 MHz and 459-460 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.286AA",
+        "text": "The frequency band 450-470 MHz is identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) - see Resolution 224 (Rev.WRC-19). This identification does not preclude the use of this frequency band by any application of the services to which it is allocated and does not establish priority in the Radio Regulations. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.286B",
+        "text": "The use of the band 454-455 MHz in the countries listed in No. 5.286D, 455-456 MHz and 459-460 MHz in Region 2, and 454-456 MHz and 459-460 MHz in the countries listed in No. 5.286E, by stations in the mobile-satellite service, shall not cause harmful interference to, or claim protection from, stations of the fixed or mobile services operating in accordance with the Table of Frequency Allocations. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.286C",
+        "text": "The use of the band 454-455 MHz in the countries listed in No. 5.286D, 455-456 MHz and 459-460 MHz in Region 2, and 454-456 MHz and 459-460 MHz in the countries listed in No. 5.286E, by stations in the mobile-satellite service, shall not constrain the development and use of the fixed and mobile services operating in accordance with the Table of Frequency Allocations. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.286D",
+        "text": "Additional allocation: in Canada, the United States and Panama, the band 454-455 MHz is also allocated to the mobile-satellite service (Earth-to-space) on a primary basis. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.286E",
+        "text": "Additional allocation: in Cape Verde, Nepal and Nigeria, the bands 454-456 MHz and 459-460 MHz are also allocated to the mobile-satellite (Earth-to-space) service on a primary basis. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.287",
+        "text": "Use of the frequency bands 457.5125-457.5875 MHz and 467.5125-467.5875 MHz by the maritime mobile service is limited to on-board communication stations. The characteristics of the equipment and the channelling arrangement shall be in accordance with Recommendation ITU-R M.1174-4. The use of these frequency bands in territorial waters is subject to the national regulations of the administration concerned. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.288",
+        "text": "In the territorial waters of the United States and the Philippines, the preferred frequencies for use by on-board communication stations shall be 457.525 MHz, 457.550 MHz, 457.575 MHz and 457.600 MHz paired, respectively, with 467.750 MHz, 467.775 MHz, 467.800 MHz and 467.825 MHz. The characteristics of the equipment used shall conform to those specified in Recommendation ITU-R M.1174-4. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.289",
+        "text": "Earth exploration-satellite service applications, other than the meteorological-satellite service, may also be used in the bands 460-470 MHz and 1690-1710 MHz for space-to-Earth transmissions subject to not causing harmful interference to stations operating in accordance with the Table."
+    },
+    {
+        "footnote_number": "5.290",
+        "text": "Different category of service: in Afghanistan, Azerbaijan, Belarus, China, the Russian Federation, Japan, Kyrgyzstan, Tajikistan and Turkmenistan, the allocation of the band 460-470 MHz to the meteorological satellite service (space-to-Earth) is on a primary basis (see No. 5.33), subject to agreement obtained under No. 9.21. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.291",
+        "text": "Additional allocation: in China, the band 470-485 MHz is also allocated to the space research (space-to-Earth) and the space operation (space-to-Earth) services on a primary basis subject to agreement obtained under No. 9.21 and subject to not causing harmful interference to existing and planned broadcasting stations."
+    },
+    {
+        "footnote_number": "5.291A",
+        "text": "Additional allocation: in Germany, Austria, Denmark, Estonia, Liechtenstein, the Czech Republic, Serbia and Switzerland, the frequency band 470-494 MHz is also allocated to the radiolocation service on a secondary basis. This use is limited to the operation of wind profiler radars in accordance with Resolution 217 (WRC-97). (WRC-15)"
+    },
+    {
+        "footnote_number": "5.292",
+        "text": "Different category of service: in Argentina, Uruguay and Venezuela, the allocation of the frequency band 470-512 MHz to the mobile service is on a primary basis (see No. 5.33), subject to agreement obtained under No. 9.21. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.293",
+        "text": "Different category of service: in Canada, Chile, Cuba, the United States, Guyana, Jamaica and Panama, the allocation of the frequency bands 470-512 MHz and 614-806 MHz to the fixed service is on a primary basis (see No. 5.33), subject to agreement obtained under No. 9.21. In the Bahamas, Barbados, Canada, Chile, Cuba, the United States, Guyana, Jamaica, Mexico and Panama, the allocation of the frequency bands 470-512 MHz and 614-698 MHz to the mobile service is on a primary basis (see No. 5.33), subject to agreement obtained under No. 9.21. In Argentina and Ecuador, the allocation of the frequency band 470-512 MHz to the fixed and mobile services is on a primary basis (see No. 5.33), subject to agreement obtained under No. 9.21. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.294",
+        "text": "Additional allocation: in Saudi Arabia, Cameroon, Côte d'Ivoire, Egypt, Ethiopia, Israel, Libya, the Syrian Arab Republic, Chad and Yemen, the frequency band 470-582 MHz is also allocated to the fixed service on a secondary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.295",
+        "text": "In the Bahamas, Barbados, Canada, the United States and Mexico, the frequency band 470-608 MHz, or portions thereof, is identified for International Mobile Telecommunications (IMT) – see Resolution 224 (Rev.WRC-19). This identification does not preclude the use of these frequency bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. Mobile service stations of the IMT system within the frequency band are subject to agreement obtained under No. 9.21 and shall not cause harmful interference to, or claim protection from, the broadcasting service of neighbouring countries. Nos. 5.43 and 5.43A apply. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.296",
+        "text": "Additional allocation: in Albania, Germany, Angola, Saudi Arabia, Austria, Bahrain, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bulgaria, Burkina Faso, Burundi, Cameroon, Vatican, Congo (Rep. of the), Côte d'Ivoire, Croatia, Denmark, Djibouti, Egypt, United Arab Emirates, Spain, Estonia, Eswatini, Finland, France, Gabon, Georgia, Ghana, Hungary, Iraq, Ireland, Iceland, Israel, Italy, Jordan, Kenya, Kuwait, Lesotho, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, North Macedonia, Malawi, Mali, Malta, Morocco, Mauritius, Mauritania, Moldova, Monaco, Mozambique, Namibia, Niger, Nigeria, Norway, Oman, Uganda, the Netherlands, Poland, Portugal, Qatar, the Syrian Arab Republic, Slovakia, the Czech Republic, Romania, the United Kingdom, Rwanda, San Marino, Serbia, Sudan, South Africa, Sweden, Switzerland, Tanzania, Chad, Togo, Tunisia, Turkey, Ukraine, Zambia and Zimbabwe, the frequency band 470-694 MHz is also allocated on a secondary basis to the land mobile service, intended for applications ancillary to broadcasting and programme-making. Stations of the land mobile service in the countries listed in this footnote shall not cause harmful interference to existing or planned stations operating in accordance with the Table in countries other than those listed in this footnote. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.296A",
+        "text": "In Micronesia, the Solomon Islands, Tuvalu and Vanuatu, the frequency band 470-698 MHz, or portions thereof, and in Bangladesh, Maldives and New Zealand, the frequency band 610-698 MHz, or portions thereof, are identified for use by these administrations wishing to implement International Mobile Telecommunications (IMT) – see Resolution 224 (Rev.WRC-19). This identification does not preclude the use of these frequency bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. The mobile allocation in this frequency band shall not be used for IMT systems unless subject to agreement obtained under No. 9.21 and shall not cause harmful interference to, or claim protection from, the broadcasting service of neighbouring countries. Nos. 5.43 and 5.43A apply. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.297",
+        "text": "Additional allocation: in Canada, Costa Rica, Cuba, El Salvador, the United States, Guatemala, Guyana and Jamaica, the frequency band 512-608 MHz is also allocated to the fixed and mobile services on a primary basis, subject to agreement obtained under No. 9.21. In the Bahamas, Barbados and Mexico, the frequency band 512-608 MHz is also allocated to the mobile service on a primary basis, subject to agreement obtained under No. 9.21. In Mexico, the frequency band 512-608 MHz is also allocated on a secondary basis to the fixed service (see No. 5.32). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.298",
+        "text": "Additional allocation: in India, the band 549.75-550.25 MHz is also allocated to the space operation service (space-to-Earth) on a secondary basis."
+    },
+    {
+        "footnote_number": "5.299",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.300",
+        "text": "Additional allocation: in Saudi Arabia, Cameroon, Egypt, United Arab Emirates, Israel, Jordan, Libya, Oman, Qatar, the Syrian Arab Republic and Sudan, the frequency band 582-790 MHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a secondary basis. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.301",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.302",
+        "text": "(SUP -WRC-12)"
+    },
+    {
+        "footnote_number": "5.303",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.304",
+        "text": "Additional allocation: in the African Broadcasting Area (see Nos. 5.10 to 5.13), the band 606-614 MHz is also allocated to the radio astronomy service on a primary basis."
+    },
+    {
+        "footnote_number": "5.305",
+        "text": "Additional allocation: in China, the band 606-614 MHz is also allocated to the radio astronomy service on a primary basis."
+    },
+    {
+        "footnote_number": "5.306",
+        "text": "Additional allocation: in Region 1, except in the African Broadcasting Area (see Nos. 5.10 to 5.13), and in Region 3, the band 608-614 MHz is also allocated to the radio astronomy service on a secondary basis."
+    },
+    {
+        "footnote_number": "5.307",
+        "text": "Additional allocation: in India, the band 608-614 MHz is also allocated to the radio astronomy service on a primary basis."
+    },
+    {
+        "footnote_number": "5.308",
+        "text": "Additional allocation: in Belize, Colombia and Guatemala, the frequency band 614-698 MHz is also allocated to the mobile service on a primary basis. Stations of the mobile service within the frequency band are subject to agreement obtained under No. 9.21. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.308A",
+        "text": "In the Bahamas, Barbados, Belize, Canada, Colombia, the United States, Guatemala and Mexico, the frequency band 614-698 MHz, or portions thereof, is identified for International Mobile Telecommunications (IMT) – see Resolution 224 (Rev.WRC-19). This identification does not preclude the use of these frequency bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. Mobile service stations of the IMT system within the frequency band are subject to agreement obtained under No. 9.21 and shall not cause harmful interference to, or claim protection from, the broadcasting service of neighbouring countries. Nos. 5.43 and 5.43A apply. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.309",
+        "text": "Different category of service: in El Salvador, the allocation of the frequency band 614-806 MHz to the fixed service is on a primary basis (see No. 5.33), subject to agreement obtained under No. 9.21. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.310",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.311",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.311A",
+        "text": "(SUP -WRC-19)"
+    },
+    {
+        "footnote_number": "5.312",
+        "text": "Additional allocation: in Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the frequency band 645-862 MHz, and in Bulgaria the frequency bands 646-686 MHz, 726-753 MHz, 778-811 MHz and 822-852 MHz, are also allocated to the aeronautical radionavigation service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.312A",
+        "text": "In Region 1, the use of the frequency band 694-790 MHz by the mobile, except aeronautical mobile, service is subject to the provisions of Resolution 760 (Rev.WRC-19). See also Resolution 224 (Rev.WRC-19). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.313",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.313A",
+        "text": "The frequency band, or portions of the frequency band 698-790 MHz, in Australia, Bangladesh, Brunei Darussalam, Cambodia, China, Korea (Rep. of), Fiji, India, Indonesia, Japan, Kiribati, Lao P.D.R., Malaysia, Myanmar (Union of), New Zealand, Pakistan, Papua New Guinea, the Philippines, the Dem. People’s Rep. of Korea, Solomon Islands, Samoa, Singapore, Thailand, Tonga, Tuvalu, Vanuatu and Viet Nam, are identified for use by these administrations wishing to implement International Mobile Telecommunications (IMT). This identification does not preclude the use of these frequency bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.313B",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.314",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.315",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.316",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.316A",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.316B",
+        "text": "In Region 1, the allocation to the mobile, except aeronautical mobile, service in the frequency band 790-862 MHz is subject to agreement obtained under No. 9.21 with respect to the aeronautical radionavigation service in countries mentioned in No. 5.312. For countries party to the GE06 Agreement, the use of stations of the mobile service is also subject to the successful application of the procedures of that Agreement. Resolutions 224 (Rev.WRC-19) and 749 (Rev.WRC-19) shall apply, as appropriate. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.317",
+        "text": "Additional allocation: in Region 2 (except Brazil, the United States and Mexico), the frequency band 806-890 MHz is also allocated to the mobile-satellite service on a primary basis, subject to agreement obtained under No. 9.21. The use of this service is intended for operation within national boundaries. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.317A",
+        "text": "The parts of the frequency band 698-960 MHz in Region 2 and the frequency bands 694-790 MHz in Region 1 and 790-960 MHz in Regions 1 and 3 which are allocated to the mobile service on a primary basis are identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) – see Resolutions 224 (Rev.WRC-19), 760 (Rev.WRC-19) and 749 (Rev.WRC-19), where applicable. This identification does not preclude the use of these frequency bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.318",
+        "text": "Additional allocation: in Canada, the United States and Mexico, the bands 849-851 MHz and 894-896 MHz are also allocated to the aeronautical mobile service on a primary basis, for public correspondence with aircraft. The use of the band 849-851 MHz is limited to transmissions from aeronautical stations and the use of the band 894-896 MHz is limited to transmissions from aircraft stations."
+    },
+    {
+        "footnote_number": "5.319",
+        "text": "Additional allocation: in Belarus, the Russian Federation and Ukraine, the bands 806-840 MHz (Earth-to-space) and 856-890 MHz (space-to-Earth) are also allocated to the mobile-satellite, except aeronautical mobile satellite (R), service. The use of these bands by this service shall not cause harmful interference to, or claim protection from, services in other countries operating in accordance with the Table of Frequency Allocations and is subject to special agreements between the administrations concerned."
+    },
+    {
+        "footnote_number": "5.320",
+        "text": "Additional allocation: in Region 3, the bands 806-890 MHz and 942-960 MHz are also allocated to the mobile-satellite, except aeronautical mobile-satellite (R), service on a primary basis, subject to agreement obtained under No. 9.21. The use of this service is limited to operation within national boundaries. In seeking such agreement, appropriate protection shall be afforded to services operating in accordance with the Table, to ensure that no harmful interference is caused to such services."
+    },
+    {
+        "footnote_number": "5.321",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.322",
+        "text": "In Region 1, in the band 862-960 MHz, stations of the broadcasting service shall be operated only in the African Broadcasting Area (see Nos. 5.10 to 5.13) excluding Algeria, Burundi, Egypt, Spain, Lesotho, Libya, Morocco, Malawi, Namibia, Nigeria, South Africa, Tanzania, Zimbabwe and Zambia, subject to agreement obtained under No. 9.21. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.323",
+        "text": "Additional allocation: in Armenia, Azerbaijan, Belarus, the Russian Federation, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan and Ukraine, the frequency band 862-960 MHz, in Bulgaria the frequency bands 862-880 MHz and 915-925 MHz, and in Romania the frequency bands 862-880 MHz and 915-925 MHz, are also allocated to the aeronautical radionavigation service on a primary basis. Such use is subject to agreement obtained under No. 9.21 with administrations concerned and limited to ground-based radiobeacons in operation on 27 October 1997 until the end of their lifetime. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.324",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.325",
+        "text": "Different category of service: in the United States, the allocation of the band 890-942 MHz to the radiolocation service is on a primary basis (see No. 5.33), subject to agreement obtained under No. 9.21."
+    },
+    {
+        "footnote_number": "5.325A",
+        "text": "Different category of service: in Argentina, Brazil, Costa Rica, Cuba, Dominican Republic, El Salvador, Ecuador, the French overseas departments and communities in Region 2, Guatemala, Paraguay, Uruguay and Venezuela, the frequency band 902-928 MHz is allocated to the land mobile service on a primary basis. In Mexico, the frequency band 902-928 MHz is allocated to the mobile, except aeronautical mobile, service on a primary basis. In Colombia, the frequency band 902-905 MHz is allocated to the land mobile service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.326",
+        "text": "Different category of service: in Chile, the band 903-905 MHz is allocated to the mobile, except aeronautical mobile, service on a primary basis, subject to agreement obtained under No. 9.21."
+    },
+    {
+        "footnote_number": "5.327",
+        "text": "Different category of service: in Australia, the allocation of the band 915-928 MHz to the radiolocation service is on a primary basis (see No. 5.33)."
+    },
+    {
+        "footnote_number": "5.327A",
+        "text": "The use of the frequency band 960-1164 MHz by the aeronautical mobile (R) service is limited to systems that operate in accordance with recognized international aeronautical standards. Such use shall be in accordance with Resolution 417 (Rev.WRC-15). (WRC-15)"
+    },
+    {
+        "footnote_number": "5.328",
+        "text": "The use of the band 960-1215 MHz by the aeronautical radionavigation service is reserved on a worldwide basis for the operation and development of airborne electronic aids to air navigation and any directly associated ground-based facilities. (WRC-2000)"
+    },
+    {
+        "footnote_number": "5.328A",
+        "text": "Stations in the radionavigation-satellite service in the band 1164-1215 MHz shall operate in accordance with the provisions of Resolution 609 (Rev.WRC-07) and shall not claim protection from stations in the aeronautical radionavigation service in the band 960-1215 MHz. No. 5.43A does not apply. The provisions of No. 21.18 shall apply. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.328AA",
+        "text": "The frequency band 1087.7-1092.3 MHz is also allocated to the aeronautical mobile-satellite (R) service (Earth-to-space) on a primary basis, limited to the space station reception of Automatic Dependent Surveillance-Broadcast (ADS-B) emissions from aircraft transmitters that operate in accordance with recognized international aeronautical standards. Stations operating in the aeronautical mobile-satellite (R) service shall not claim protection from stations operating in the aeronautical radionavigation service. Resolution 425 (Rev.WRC-19) shall apply. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.328B",
+        "text": "The use of the bands 1164-1300 MHz, 1559-1610 MHz and 5010-5030 MHz by systems and networks in the radionavigation-satellite service for which complete coordination or notification information, as appropriate, is received by the Radiocommunication Bureau after 1 January 2005 is subject to the application of the provisions of Nos. 9.12, 9.12A and 9.13. Resolution 610 (WRC-03)* shall also apply; however, in the case of radionavigation-satellite service (space-to-space) networks and systems, Resolution 610 (WRC-03)* shall only apply to transmitting space stations. In accordance with No. 5.329A, for systems and networks in the radionavigation-satellite service (space-to-space) in the bands 1215-1300 MHz and 1559-1610 MHz, the provisions of Nos. 9.7, 9.12, 9.12A and 9.13 shall only apply with respect to other systems and networks in the radionavigation-satellite service (space-to-space). (WRC-07)"
+    },
+    {
+        "footnote_number": "5.329",
+        "text": "Use of the radionavigation-satellite service in the frequency band 1215-1300 MHz shall be subject to the condition that no harmful interference is caused to, and no protection is claimed from, the radionavigation service authorized under No. 5.331. Furthermore, the use of the radionavigation-satellite service in the frequency band 1215-1300 MHz shall be subject to the condition that no harmful interference is caused to the radiolocation service. No. 5.43 shall not apply in respect of the radiolocation service. Resolution 608 (Rev.WRC-19) shall apply. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.329A",
+        "text": "Use of systems in the radionavigation-satellite service (space-to-space) operating in the bands 1215-1300 MHz and 1559-1610 MHz is not intended to provide safety service applications, and shall not impose any additional constraints on radionavigation-satellite service (space-to-Earth) systems or on other services operating in accordance with the Table of Frequency Allocations. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.330",
+        "text": "Additional allocation: in Angola, Saudi Arabia, Bahrain, Bangladesh, Cameroon, China, Djibouti, Egypt, the United Arab Emirates, Eritrea, Ethiopia, Guyana, India, Indonesia, Iran (Islamic Republic of), Iraq, Israel, Japan, Jordan, Kuwait, Nepal, Oman, Pakistan, the Philippines, Qatar, the Syrian Arab Republic, Somalia, Sudan, * Note by the Secretariat: This Resolution was revised by WRC-19."
+    },
+    {
+        "footnote_number": "5.331",
+        "text": "Additional allocation: in Algeria, Germany, Saudi Arabia, Australia, Austria, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Brazil, Burkina Faso, Burundi, Cameroon, China, Korea (Rep. of), Croatia, Denmark, Egypt, the United Arab Emirates, Estonia, the Russian Federation, Finland, France, Ghana, Greece, Guinea, Equatorial Guinea, Hungary, India, Indonesia, Iran (Islamic Republic of), Iraq, Ireland, Israel, Jordan, Kenya, Kuwait, Lesotho, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, North Macedonia, Madagascar, Mali, Mauritania, Montenegro, Nigeria, Norway, Oman, Pakistan, the Kingdom of the Netherlands, Poland, Portugal, Qatar, the Syrian Arab Republic, Dem. People’s Rep. of Korea, Slovakia, the United Kingdom, Serbia, Slovenia, Somalia, Sudan, South Sudan, Sri Lanka, South Africa, Sweden, Switzerland, Thailand, Togo, Turkey, Venezuela and Viet Nam, the frequency band 1215-1300 MHz is also allocated to the radionavigation service on a primary basis. In Canada and the United States, the frequency band 1240-1300 MHz is also allocated to the radionavigation service, and use of the radionavigation service shall be limited to the aeronautical radionavigation service. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.332",
+        "text": "In the band 1215-1260 MHz, active spaceborne sensors in the Earth exploration-satellite and space research services shall not cause harmful interference to, claim protection from, or otherwise impose constraints on operation or development of the radiolocation service, the radionavigation-satellite service and other services allocated on a primary basis. (WRC-2000)"
+    },
+    {
+        "footnote_number": "5.333",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.334",
+        "text": "Additional allocation: in Canada and the United States, the band 1350-1370 MHz is also allocated to the aeronautical radionavigation service on a primary basis. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.335",
+        "text": "In Canada and the United States in the band 1240-1300 MHz, active spaceborne sensors in the Earth exploration-satellite and space research services shall not cause interference to, claim protection from, or otherwise impose constraints on operation or development of the aeronautical radionavigation service. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.335A",
+        "text": "In the band 1260-1300 MHz, active spaceborne sensors in the Earth exploration-satellite and space research services shall not cause harmful interference to, claim protection from, or otherwise impose constraints on operation or development of the radiolocation service and other services allocated by footnotes on a primary basis. (WRC-2000)"
+    },
+    {
+        "footnote_number": "5.336",
+        "text": "Not used."
+    },
+    {
+        "footnote_number": "5.337",
+        "text": "The use of the bands 1300-1350 MHz, 2700-2900 MHz and 9000-9200 MHz by the aeronautical radionavigation service is restricted to ground-based radars and to associated airborne transponders which transmit only on frequencies in these bands and only when actuated by radars operating in the same band."
+    },
+    {
+        "footnote_number": "5.337A",
+        "text": "The use of the band 1300-1350 MHz by earth stations in the radionavigation-satellite service and by stations in the radiolocation service shall not cause harmful interference to, nor constrain the operation and development of, the aeronautical-radionavigation service. (WRC-2000)"
+    },
+    {
+        "footnote_number": "5.338",
+        "text": "In Kyrgyzstan, Slovakia and Turkmenistan, existing installations of the radionavigation service may continue to operate in the band 1350-1400 MHz. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.338A",
+        "text": "In the frequency bands 1350-1400 MHz, 1427-1452 MHz, 22.55-23.55 GHz, 24.25-27.5 GHz, 30-31.3 GHz, 49.7-50.2 GHz, 50.4-50.9 GHz, 51.4-52.4 GHz, 52.4-52.6 GHz, 81-86 GHz and 92-94 GHz, Resolution 750 (Rev.WRC-19) applies. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.339",
+        "text": "The bands 1370-1400 MHz, 2640-2655 MHz, 4950-4990 MHz and 15.20-15.35 GHz are also allocated to the space research (passive) and Earth exploration-satellite (passive) services on a secondary basis."
+    },
+    {
+        "footnote_number": "5.339A",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.340",
+        "text": "All emissions are prohibited in the following bands: 1400-1427 MHz, 2690-2700 MHz except those provided for by No. 5.422, 10.68-10.7 GHz except those provided for by No. 5.483, 15.35-15.4 GHz except those provided for by No. 5.511, 23.6-24 GHz, 31.3-31.5 GHz, 31.5-31.8 GHz in Region 2, 48.94-49.04 GHz from airborne stations, 50.2-50.4 GHz, 52.6-54.25 GHz, 86-92 GHz, 100-102 GHz, 109.5-111.8 GHz, 114.25-116 GHz, 148.5-151.5 GHz, 164-167 GHz, 182-185 GHz, 190-191.8 GHz, 200-209 GHz, 226-231.5 GHz, 250-252 GHz. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.341",
+        "text": "In the bands 1400-1727 MHz, 101-120 GHz and 197-220 GHz, passive research is being conducted by some countries in a programme for the search for intentional emissions of extraterrestrial origin."
+    },
+    {
+        "footnote_number": "5.341A",
+        "text": "In Region 1, the frequency bands 1427-1452 MHz and 1492-1518 MHz are identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution 223 (Rev.WRC-15). This identification does not preclude the use of these frequency bands by any other application of the services to which it is allocated and does not establish priority in the Radio Regulations. The use of IMT stations is subject to agreement obtained under No. 9.21 with respect to the aeronautical mobile service used for aeronautical telemetry in accordance with No. 5.342. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.341B",
+        "text": "In Region 2, the frequency band 1427-1518 MHz is identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution 223 (Rev.WRC-15). This identification does not preclude the use of this frequency band by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.341C",
+        "text": "The frequency bands 1427-1452 MHz and 1492-1518 MHz are identified for use by administrations in Region 3 wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution 223 (Rev.WRC-15). The use of these frequency bands by the above administrations for the implementation of IMT in the frequency bands 1429-1452 MHz and 1492-1518 MHz is subject to agreement obtained under No. 9.21 from countries using stations of the aeronautical mobile service. This identification does not preclude the use of these frequency bands by any application of the services to which it is allocated and does not establish priority in the Radio Regulations. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.342",
+        "text": "Additional allocation: in Armenia, Azerbaijan, Belarus, the Russian Federation, Uzbekistan, Kyrgyzstan and Ukraine, the frequency band 1429-1535 MHz is also allocated to the aeronautical mobile service on a primary basis, exclusively for the purposes of aeronautical telemetry within the national territory. As of 1 April 2007, the use of the frequency band 1452-1492 MHz is subject to agreement between the administrations concerned. (WRC-15)"
+    },
+    {
+        "footnote_number": "5.343",
+        "text": "In Region 2, the use of the band 1435-1535 MHz by the aeronautical mobile service for telemetry has priority over other uses by the mobile service."
+    },
+    {
+        "footnote_number": "5.344",
+        "text": "Alternative allocation: in the United States, the band 1452-1525 MHz is allocated to the fixed and mobile services on a primary basis (see also No. 5.343)."
+    },
+    {
+        "footnote_number": "5.345",
+        "text": "Use of the frequency band 1452-1492 MHz by the broadcasting-satellite service, and by the broadcasting service, is limited to digital audio broadcasting and is subject to the provisions of Resolution 528 (Rev.WRC-19). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.346",
+        "text": "In Algeria, Angola, Saudi Arabia, Bahrain, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Congo (Rep. of the), Côte d'Ivoire, Djibouti, Egypt, United Arab Emirates, Eswatini, Gabon, Gambia, Ghana, Guinea, Iraq, Jordan, Kenya, Kuwait, Lesotho, Lebanon, Liberia, Madagascar, Malawi, Mali, Morocco, Mauritius, Mauritania, Mozambique, Namibia, Niger, Nigeria, Oman, Uganda, Palestine, Qatar, Dem. Rep. of the Congo, Rwanda, Senegal, Seychelles, Sudan, South Sudan, South Africa, Tanzania, Chad, Togo, Tunisia, Zambia, and Zimbabwe, the frequency band 1452-1492 MHz is identified for use by administrations listed above wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution 223 (Rev.WRC-19). This identification does not preclude the use of this frequency band by any other application of the services to which it is allocated and does not establish priority in the Radio Regulations. The use of this frequency band for the implementation of IMT is subject to agreement obtained under No. 9.21 with respect to the aeronautical mobile service used for aeronautical telemetry in accordance with No. 5.342. See also Resolution 761 (Rev.WRC-19). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.346A",
+        "text": "The frequency band 1452-1492 MHz is identified for use by administrations in Region 3 wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution 223 (Rev.WRC-19) and Resolution 761 (Rev.WRC-19). The use of this frequency band by the above administrations for the implementation of IMT is subject to agreement obtained under No. 9.21 from countries using stations of the aeronautical mobile service. This identification does not preclude the use of this frequency band by any application of the services to which it is allocated and does not establish priority in the Radio Regulations. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.347",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.347A",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.348",
+        "text": "The use of the band 1518-1525 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. In the band 1518-1525 MHz stations in the mobile-satellite service shall not claim protection from the stations in the fixed service. No. 5.43A does not apply. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.348A",
+        "text": "In the band 1518-1525 MHz, the coordination threshold in terms of the power flux-density levels at the surface of the Earth in application of No. 9.11A for space stations in the mobile-satellite (space-to-Earth) service, with respect to the land mobile service use for specialized mobile radios or used in conjunction with public switched telecommunication networks (PSTN) operating within the territory of Japan, shall be –150 dB(W/m2) in any 4 kHz band for all angles of arrival, instead of those given in Table 5-2 of Appendix 5. In the band 1518-1525 MHz stations in the mobile-satellite service shall not claim protection from stations in the mobile service in the territory of Japan. No. 5.43A does not apply. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.348B",
+        "text": "In the band 1 518-1 525 MHz, stations in the mobile-satellite service shall not claim protection from aeronautical mobile telemetry stations in the mobile service in the territory of the United States (see Nos. 5.343 and 5.344) and in the countries listed in No. 5.342. No. 5.43A does not apply. (WRC-03)"
+    },
+    {
+        "footnote_number": "5.348C",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.349",
+        "text": "Different category of service: in Saudi Arabia, Azerbaijan, Bahrain, Cameroon, Egypt, Iran (Islamic Republic of), Iraq, Israel, Kazakhstan, Kuwait, Lebanon, North Macedonia, Morocco, Qatar, Syrian Arab Republic, Kyrgyzstan, Turkmenistan and Yemen, the allocation of the frequency band 1 525-1 530 MHz to the mobile, except aeronautical mobile, service is on a primary basis (see No. 5.33). (WRC-19)"
+    },
+    {
+        "footnote_number": "5.350",
+        "text": "Additional allocation: in Kyrgyzstan and Turkmenistan, the frequency band 1 525-1 530 MHz is also allocated to the aeronautical mobile service on a primary basis. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.351",
+        "text": "The bands 1 525-1 544 MHz, 1 545-1 559 MHz, 1 626.5-1 645.5 MHz and 1 646.5-1 660.5 MHz shall not be used for feeder links of any service. In exceptional circumstances, however, an earth station at a specified fixed point in any of the mobile-satellite services may be authorized by an administration to communicate via space stations using these bands."
+    },
+    {
+        "footnote_number": "5.351A",
+        "text": "For the use of the bands 1 518-1 544 MHz, 1 545-1 559 MHz, 1 610-1 645.5 MHz, 1 646.5-1 660.5 MHz, 1 668-1 675 MHz, 1 980-2 010 MHz, 2 170-2 200 MHz, 2 483.5-2 520 MHz and 2 670-2 690 MHz by the mobile-satellite service, see Resolutions 212 (Rev.WRC-07)* and 225 (Rev.WRC-07)**. (WRC-07)"
+    },
+    {
+        "footnote_number": "5.352",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.352A",
+        "text": "In the frequency band 1 525-1 530 MHz, stations in the mobile-satellite service, except stations in the maritime mobile-satellite service, shall not cause harmful interference to, or claim protection from, stations of the fixed service in Algeria, Saudi Arabia, Egypt, Guinea, India, Israel, Italy, Jordan, Kuwait, Mali, Morocco, Mauritania, Nigeria, Oman, Pakistan, the Philippines, Qatar, Syrian Arab Republic, Viet Nam and Yemen notified prior to 1 April 1998. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.353",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.353A",
+        "text": "In applying the procedures of Section II of Article 9 to the mobile-satellite service in the bands 1 530-1 544 MHz and 1 626.5-1 645.5 MHz, priority shall be given to accommodating the spectrum requirements for distress, urgency and safety communications of the Global Maritime Distress and Safety System (GMDSS). Maritime mobile-satellite distress, urgency and safety communications shall have priority access and immediate availability over all other mobile satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, distress, urgency and safety communications of the GMDSS. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (The provisions of Resolution 222 (WRC-2000)* shall apply.) (WRC-2000)"
+    },
+    {
+        "footnote_number": "5.354",
+        "text": "The use of the bands 1 525-1 559 MHz and 1 626.5-1 660.5 MHz by the mobile-satellite services is subject to coordination under No. 9.11A."
+    },
+    {
+        "footnote_number": "5.355",
+        "text": "Additional allocation: in Bahrain, Bangladesh, Congo (Rep. of the), Djibouti, Egypt, Eritrea, Iraq, Israel, Kuwait, Qatar, Syrian Arab Republic, Somalia, Sudan, South Sudan, Chad, Togo and Yemen, the bands 1 540-1 559 MHz, 1 610-1 645.5 MHz and 1 646.5-1 660 MHz are also allocated to the fixed service on a secondary basis. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.356",
+        "text": "The use of the band 1 544-1 545 MHz by the mobile-satellite service (space-to-Earth) is limited to distress and safety communications (see Article 31)."
+    },
+    {
+        "footnote_number": "5.357",
+        "text": "Transmissions in the band 1 545-1 555 MHz from terrestrial aeronautical stations directly to aircraft stations, or between aircraft stations, in the aeronautical mobile (R) service are also authorized when such transmissions are used to extend or supplement the satellite-to-aircraft links."
+    },
+    {
+        "footnote_number": "5.357A",
+        "text": "In applying the procedures of Section II of Article 9 to the mobile-satellite service in the frequency bands 1 545-1 555 MHz and 1 646.5-1 656.5 MHz, priority shall be given to accommodating the spectrum requirements of the aeronautical mobile-satellite (R) service providing transmission of messages with priority 1 to 6 in Article 44. Aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article 44 shall have priority access and immediate availability, by pre-emption if necessary, over all other mobile-satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article 44. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (The provisions of Resolution 222 (Rev.WRC-12)* shall apply.) (WRC-12)"
+    },
+    {
+        "footnote_number": "5.358",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.359",
+        "text": "Additional allocation: in Germany, Saudi Arabia, Armenia, Azerbaijan, Belarus, Cameroon, the Russian Federation, Georgia, Guinea, Guinea-Bissau, Jordan, Kazakhstan, Kuwait, Lithuania, Mauritania, Uganda, Uzbekistan, Pakistan, Poland, the Syrian Arab Republic, Kyrgyzstan, the Dem. People’s Rep. of Korea, Romania, Tajikistan, Tunisia, Turkmenistan and Ukraine, the frequency bands 1 550-1 559 MHz, 1 610-1 645.5 MHz and 1 646.5-1 660 MHz are also allocated to the fixed service on a primary basis. Administrations are urged to make all practicable efforts to avoid the implementation of new fixed-service stations in these frequency bands. (WRC-19)"
+    },
+    {
+        "footnote_number": "5.360 to 5.362",
+        "text": "(SUP -WRC-97)"
+    },
+    {
+        "footnote_number": "5.362A",
+        "text": "In the United States, in the bands 1 555-1 559 MHz and 1 656.5-1 660.5 MHz, the aeronautical mobile-satellite (R) service shall have priority access and immediate availability, by pre-emption if necessary, over all other mobile-satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article 44. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (WRC-97)"
+    },
+    {
+        "footnote_number": "5.362B",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.362C",
+        "text": "(SUP -WRC-15)"
+    },
+    {
+        "footnote_number": "5.363",
+        "text": "(SUP -WRC-07)"
+    },
+    {
+        "footnote_number": "5.364",
+        "text": "The use of the band 1 610-1 626.5 MHz by the mobile-satellite service (Earth-to-space) and by the radiodetermination-satellite service (Earth-to-space) is subject to coordination under No. 9.11A. A mobile earth station operating in either of the services in this band shall not produce a peak e.i.r.p. density in excess of −15 dB(W/4 kHz) in the part of the band used by systems operating in accordance with the provisions of No. 5.366 (to which No. 4.10 applies), unless otherwise agreed by the affected administrations. In the part of the band where such systems are not operating, the mean e.i.r.p. density of a mobile earth station shall not exceed –3 dB(W/4 kHz). Stations of the mobile-satellite service shall not claim protection from stations in the aeronautical radionavigation service, stations operating in accordance with the provisions of No. 5.366 and stations in the fixed service operating in accordance with the provisions of No. 5.359. Administrations responsible for the coordination of mobile-satellite networks shall make all practicable efforts to ensure protection of stations operating in accordance with the provisions of No. 5.366."
+    },
+    {
+        "footnote_number": "5.365",
+        "text": "The use of the band 1 613.8-1 626.5 MHz by the mobile-satellite service (space-to-Earth) is subject to coordination under No. 9.11A."
+    },
+    {
+        "footnote_number": "5.366",
+        "text": "The band 1 610-1 626.5 MHz is reserved on a worldwide basis for the use and development of airborne electronic aids to air navigation and any directly associated ground-based or satellite-borne facilities. Such satellite use is subject to agreement obtained under No. 9.21."
+    },
+    {
+        "footnote_number": "5.367",
+        "text": "Additional allocation: The frequency band 1 610-1 626.5 MHz is also allocated to the aeronautical mobile-satellite (R) service on a primary basis, subject to agreement obtained under No. 9.21. (WRC-12)"
+    },
+    {
+        "footnote_number": "5.368",
+        "text": "The provisions of No. 4.10 do not apply with respect to the radiodetermination-satellite and mobile satellite services in the frequency band 1 610-1 626.5 MHz. However, No. 4.10 applies in the frequency band 1 610-1 626.5 MHz with respect to the aeronautical radionavigation-satellite service when operating in accordance with No. 5.366, the aeronautical mobile satellite (R) service when operating in accordance with No. 5.367, and in the frequency band 1 621.35-1 626.5 MHz with respect to the maritime mobile-satellite service when used for GMDSS. (WRC-19)"
+    }
+]
